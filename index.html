@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Casa Sol Propiedades · Campeche</title>
+  <meta name="description" content="Casas y departamentos seleccionados en venta y renta en Campeche.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+
+<header class="cabecera">
+  <div class="contenedor">
+    <a class="marca" href="index.html" data-marca>Casa Sol <span>Propiedades</span></a>
+    <nav class="nav">
+      <a href="#propiedades">Propiedades</a>
+      <a href="#nosotros">Nosotros</a>
+      <a href="#contacto">Contacto</a>
+    </nav>
+  </div>
+</header>
+
+<section class="portada">
+  <img id="portada-img" src="" alt="">
+  <div class="contenedor contenido">
+    <div class="ojo">Campeche · Venta y renta</div>
+    <h1>Casas con historia, hogares con calma.</h1>
+    <p>Una selección corta de propiedades en Campeche, presentadas con el cuidado que merecen.</p>
+    <a class="boton claro" href="#propiedades">Ver propiedades</a>
+  </div>
+</section>
+
+<section class="seccion" id="propiedades">
+  <div class="contenedor">
+    <div class="seccion-cabeza">
+      <div>
+        <div class="ojo">Catálogo</div>
+        <h2>Propiedades disponibles</h2>
+      </div>
+      <div class="filtros">
+        <button class="activo" data-filtro="todas">Todas</button>
+        <button data-filtro="venta">Venta</button>
+        <button data-filtro="renta">Renta</button>
+      </div>
+    </div>
+    <div class="rejilla" id="rejilla"></div>
+  </div>
+</section>
+
+<section class="seccion huevo" id="nosotros">
+  <div class="contenedor dos-columnas">
+    <img src="https://images.unsplash.com/photo-1587541203297-e37ab236abfb?w=1200&q=80" alt="Fachada en Campeche">
+    <div>
+      <div class="ojo">Nosotros</div>
+      <h2>Pocas propiedades, bien atendidas.</h2>
+      <p>No somos un portal: somos propietarios que muestran directamente lo que ofrecen. Cada casa se visita acompañada, con la documentación en regla y sin intermediarios.</p>
+      <p>Si buscas comprar o rentar en Campeche y prefieres hablar directo, escríbenos.</p>
+      <a class="boton" href="#contacto">Hablemos</a>
+    </div>
+  </div>
+</section>
+
+<section class="seccion contacto" id="contacto">
+  <div class="contenedor">
+    <div class="ojo">Contacto</div>
+    <h2>¿Te gustaría visitar alguna?</h2>
+    <p>Escríbenos por WhatsApp o correo y agendamos una visita el mismo día.</p>
+    <div class="acciones">
+      <a class="boton solido" data-whats href="#" target="_blank" rel="noopener">WhatsApp</a>
+      <a class="boton" data-correo href="#">Correo</a>
+    </div>
+  </div>
+</section>
+
+<footer class="pie">
+  <div class="contenedor">
+    <span data-marca>Casa Sol Propiedades</span>
+    <span>San Francisco de Campeche, Campeche · <a href="#contacto">Contacto</a></span>
+  </div>
+</footer>
+
+<script src="js/app.js"></script>
+</body>
+</html>

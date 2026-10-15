@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Propiedad · Casa Sol Propiedades</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+  <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+
+<header class="cabecera">
+  <div class="contenedor">
+    <a class="marca" href="index.html" data-marca>Casa Sol <span>Propiedades</span></a>
+    <nav class="nav">
+      <a href="index.html#propiedades">Propiedades</a>
+      <a href="index.html#nosotros">Nosotros</a>
+      <a href="index.html#contacto">Contacto</a>
+    </nav>
+  </div>
+</header>
+
+<div class="ficha-portada" id="galeria"></div>
+
+<main class="contenedor ficha">
+  <article>
+    <header>
+      <div class="ojo" id="ojo"></div>
+      <h1 id="titulo"></h1>
+      <div class="lugar" id="lugar"></div>
+    </header>
+    <div class="precio" id="precio"></div>
+    <div class="datos" id="datos"></div>
+    <p class="texto" id="texto"></p>
+    <h2>Amenidades</h2>
+    <ul class="amenidades" id="amenidades"></ul>
+    <h2>Ubicación</h2>
+    <p class="lugar">Zona aproximada; la dirección exacta se comparte al agendar la visita.</p>
+    <div id="mapa"></div>
+    <a class="volver" href="index.html#propiedades">← Volver al catálogo</a>
+  </article>
+
+  <aside class="lateral">
+    <div class="caja">
+      <h3>¿Quieres visitarla?</h3>
+      <p>Escríbenos y coordinamos una visita acompañada, sin compromiso.</p>
+      <a class="boton solido" id="whats" href="#" target="_blank" rel="noopener">WhatsApp</a>
+      <a class="boton" id="correo" href="#">Correo</a>
+    </div>
+  </aside>
+</main>
+
+<footer class="pie">
+  <div class="contenedor">
+    <span data-marca>Casa Sol Propiedades</span>
+    <span>San Francisco de Campeche, Campeche</span>
+  </div>
+</footer>
+
+<div class="visor" id="visor">
+  <button class="cerrar" aria-label="Cerrar">×</button>
+  <button class="ant" aria-label="Anterior">‹</button>
+  <img src="" alt="">
+  <button class="sig" aria-label="Siguiente">›</button>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
