@@ -47,6 +47,9 @@ p { margin: 0 0 1em; }
 .nav { display: flex; gap: 32px; font-size: .85rem; letter-spacing: .12em; text-transform: uppercase; }
 .nav a { padding: 6px 0; border-bottom: 1px solid transparent; transition: border-color .2s; }
 .nav a:hover, .nav a.activo { border-color: var(--bronce); }
+/* Botón de idioma ES/EN */
+.nav .idioma { border: 1px solid var(--manta-oscura); padding: 4px 10px; color: var(--bronce); font-size: .72rem; }
+.nav .idioma:hover { background: var(--bronce); color: var(--blanco); border-color: var(--bronce); }
 
 /* Portada */
 .portada { position: relative; min-height: 78vh; display: grid; place-items: end start; color: var(--blanco); overflow: hidden; }
@@ -139,6 +142,9 @@ p { margin: 0 0 1em; }
 .ficha .lugar { color: var(--piedra); }
 .ficha .precio { font-family: var(--serif); font-size: 2rem; color: var(--bronce-oscuro); margin: 20px 0 28px; }
 .ficha .precio small { font-family: var(--sans); font-size: .8rem; color: var(--piedra); }
+/* Precio de referencia en dólares, debajo del precio en pesos */
+.precio .usd { display: block; font-size: 1.1rem; color: var(--piedra); margin-top: 4px; }
+.precio .usd small { font-size: .72rem; letter-spacing: .02em; }
 .ficha .datos { font-size: .95rem; gap: 28px; border-top: 1px solid var(--manta); border-bottom: 1px solid var(--manta); padding: 20px 0; margin: 0 0 32px; }
 .ficha .texto { font-size: 1.05rem; line-height: 1.75; }
 .ficha h2 { font-size: 1.6rem; margin: 40px 0 16px; }

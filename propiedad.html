@@ -7,7 +7,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
-  <link rel="stylesheet" href="css/estilo.css?v=4">
+  <link rel="stylesheet" href="css/estilo.css?v=5">
 </head>
 <body>
 
@@ -15,9 +15,10 @@
   <div class="contenedor">
     <a class="marca" href="index.html" data-marca>Sastal <span>Propiedades</span></a>
     <nav class="nav">
-      <a href="index.html#propiedades">Propiedades</a>
-      <a href="index.html#nosotros">Nosotros</a>
-      <a href="index.html#contacto">Contacto</a>
+      <a href="index.html#propiedades" data-i18n="nav.propiedades">Propiedades</a>
+      <a href="index.html#nosotros" data-i18n="nav.nosotros">Nosotros</a>
+      <a href="index.html#contacto" data-i18n="nav.contacto">Contacto</a>
+      <a href="#" id="idioma" class="idioma" aria-label="Idioma / Language">EN</a>
     </nav>
   </div>
 </header>
@@ -35,38 +36,38 @@
     <div class="precio" id="precio"></div>
     <div class="datos" id="datos"></div>
     <p class="texto" id="texto"></p>
-    <h2>Amenidades</h2>
+    <h2 data-i18n="ficha.amenidades">Amenidades</h2>
     <ul class="amenidades" id="amenidades"></ul>
     <section id="bloque-equipamiento" hidden>
-      <h2>Qué incluye</h2>
+      <h2 data-i18n="ficha.incluye">Qué incluye</h2>
       <div id="equipamiento"></div>
     </section>
     <section id="bloque-condiciones" hidden>
-      <h2>Condiciones</h2>
+      <h2 data-i18n="ficha.condiciones">Condiciones</h2>
       <ul class="amenidades" id="condiciones"></ul>
     </section>
     <section id="bloque-bitacora" hidden>
-      <h2>Avances</h2>
+      <h2 data-i18n="ficha.avances">Avances</h2>
       <div id="bitacora"></div>
     </section>
     <section id="bloque-usos" hidden>
-      <h2>Usos posibles</h2>
+      <h2 data-i18n="ficha.usos">Usos posibles</h2>
       <p class="texto" id="usos"></p>
     </section>
-    <h2>Ubicación</h2>
+    <h2 data-i18n="ficha.ubicacion">Ubicación</h2>
     <p class="texto" id="ubicacion-texto" hidden></p>
     <ul class="cercanias" id="cercanias" hidden></ul>
-    <p class="lugar">Zona aproximada; la dirección exacta se comparte al agendar la visita.</p>
+    <p class="lugar" data-i18n="ficha.zona">Zona aproximada; la dirección exacta se comparte al agendar la visita.</p>
     <div id="mapa"></div>
-    <a class="volver" href="index.html#propiedades">← Volver al catálogo</a>
+    <a class="volver" href="index.html#propiedades" data-i18n="ficha.volver">← Volver al catálogo</a>
   </article>
 
   <aside class="lateral">
     <div class="caja">
-      <h3>¿Quieres visitarla?</h3>
-      <p>Escríbenos y coordinamos una visita acompañada, sin compromiso.</p>
+      <h3 data-i18n="ficha.visitar">¿Quieres visitarla?</h3>
+      <p data-i18n="ficha.visitar.p">Escríbenos y coordinamos una visita acompañada, sin compromiso.</p>
       <a class="boton solido" id="whats" href="#" target="_blank" rel="noopener">WhatsApp</a>
-      <a class="boton" id="correo" href="#">Correo</a>
+      <a class="boton" id="correo" href="#" data-i18n="correo">Correo</a>
     </div>
   </aside>
 </main>
@@ -86,6 +87,6 @@
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
-<script src="js/app.js?v=4"></script>
+<script src="js/app.js?v=5"></script>
 </body>
 </html>

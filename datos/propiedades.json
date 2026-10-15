@@ -4,7 +4,14 @@
     "lema": "Propiedades seleccionadas en Campeche",
     "whatsapp": "529617874812",
     "correo": "contacto@sastal.mx",
-    "ciudad": "San Francisco de Campeche, Campeche"
+    "ciudad": "San Francisco de Campeche, Campeche",
+    "usd": {
+      "tipo_cambio": 18.46,
+      "fecha": "2026-10-15"
+    },
+    "en": {
+      "lema": "Selected properties in Campeche, Mexico"
+    }
   },
   "propiedades": [
     {
@@ -64,7 +71,7 @@
         "img/depto-valle-del-sol/13-medio-bano.jpg",
         "img/depto-valle-del-sol/14-entrada.jpg"
       ],
-      "destacada": true,
+      "destacada": false,
       "equipamiento": {
         "Sala y comedor": [
           "Minisplit y ventilador de techo",
@@ -113,7 +120,82 @@
         ]
       },
       "estado": "rentada",
-      "disponible_desde": null
+      "disponible_desde": null,
+      "en": {
+        "titulo": "Furnished executive apartment in Valle del Sol",
+        "tipo": "apartment",
+        "antiguedad": "Upper floor",
+        "resumen": "One bedroom with a king bed and balcony, bathroom with tub and shower, fully equipped kitchen, washer and dryer. Furnished and move-in ready.",
+        "descripcion": "Upper-floor apartment on Lázaro Cárdenas Avenue, in the Valle del Sol neighborhood. It comes furnished and fully equipped: just bring your suitcase. The living-dining-kitchen area has a mini-split and ceiling fan; the kitchen includes a gas range with oven, hood, refrigerator, microwave, coffee maker, blender, toaster, pots and pans and a full dinnerware set, plus an island with stools and a wooden breakfast table. The bedroom has a king-size bed, headboard, nightstands, wooden closet, TV, mini-split and a private balcony. The full bathroom has a tub and a separate shower, hot water heater and hair dryer; there is also a guest half bath and a laundry area with washer and dryer. WiFi included. Designed for a professional or couple working in Campeche who wants to move in without buying a thing.",
+        "amenidades": [
+          "Furnished and equipped",
+          "King-size bed",
+          "Private balcony off the bedroom",
+          "Tub and separate shower",
+          "Hot water (heater)",
+          "2 mini-splits (bedroom and living-dining)",
+          "Fully equipped kitchen with dinnerware",
+          "Washer and dryer",
+          "WiFi internet",
+          "TV in the bedroom",
+          "Guest half bath",
+          "Street parking in front of the unit"
+        ],
+        "condiciones": [
+          "Rent MXN $10,000 per month; includes water, internet and maintenance",
+          "Electricity billed separately (bimonthly; reference ≈ MXN $1,000 every two months for one person)",
+          "One month's deposit",
+          "Minimum one-year lease",
+          "No pets · No smoking indoors (balcony OK)"
+        ],
+        "equipamiento": {
+          "Living and dining": [
+            "Mini-split and ceiling fan",
+            "Rattan living set (sofa and two armchairs) with coffee table",
+            "Additional sofa bed",
+            "Wooden breakfast table with 3 stools",
+            "Island with 4 bar stools",
+            "Bookcase-display cabinet and wine rack with glasses",
+            "Mirrors, artwork, rug and lamps",
+            "Curtains on all windows"
+          ],
+          "Kitchen": [
+            "4-burner gas range with oven and hood",
+            "Refrigerator",
+            "Microwave oven",
+            "Drip coffee maker and capsule coffee maker",
+            "Blender, toaster and electric kettle",
+            "Pots and pans",
+            "Full set of dishes, glasses, mugs and cutlery",
+            "Glass-door cabinets and sink"
+          ],
+          "Bedroom": [
+            "King-size bed with headboard",
+            "Two nightstands with lamps",
+            "Wooden closet",
+            "Flat-screen TV",
+            "Wooden shelves and bench",
+            "Mini-split",
+            "Sliding door to the balcony, with curtains"
+          ],
+          "Bathrooms": [
+            "Full bathroom with tub and separate shower",
+            "Water heater",
+            "Vanity with large mirror",
+            "Hair dryer",
+            "Guest half bath"
+          ],
+          "Laundry": [
+            "Mabe laundry center: washer and dryer",
+            "Folding drying rack"
+          ],
+          "Services": [
+            "WiFi internet",
+            "Water and maintenance included",
+            "Key safe at the entrance"
+          ]
+        }
+      }
     },
     {
       "clave": "casa-lomas",
@@ -132,8 +214,9 @@
       "banos": 4,
       "estacionamientos": 2,
       "antiguedad": "Construida en 2013 · 3 niveles",
-      "estado": "en_preparacion",
-      "nota_estado": "La casa está en mantenimiento (baños, pintura, acabados, plomería, electricidad, jardín e impermeabilizado) antes de salir a la venta. Si te interesa, escríbenos y te avisamos primero; mientras, aquí iremos publicando los avances.",
+      "estado": "disponible",
+      "etiqueta_estado": "Entrega en 15 días",
+      "nota_estado": "La casa está en venta y se entrega lista, tal como se describe, 15 días después de firmar el compromiso de compra. Mientras tanto, la puesta a punto avanza a ritmo normal; abajo, en «Avances», vamos publicando el antes y el después.",
       "resumen": "Casa moderna en esquina dentro de fraccionamiento cerrado, a minutos del aeropuerto, el ADO y los hospitales. Tres recámaras, gimnasio, estudio, bar y patio superior. Sirve como residencia o como casa-oficina.",
       "descripcion": "Residencia de estilo moderno en lote de esquina con dos frentes, dentro del fraccionamiento Lomas de las Flores II, a una calle de la avenida Lázaro Cárdenas. Son tres niveles con 445 m² de construcción sobre 209 m² de terreno. En planta baja, recibidor, sala, comedor y cocina con isla y área de bar, cuarto de lavado, baño completo, cochera techada para dos autos y bodega. En el primer nivel, recámara principal con vestidor y baño con tina de hidromasaje, dos recámaras más, baño completo y cuarto de blancos. En el segundo nivel, gimnasio, estudio, baño completo y patio superior tipo lounge. Hidroneumático y cuarto de máquinas en azotea. Durante cuatro años fue casa de ejecutivos de una constructora nacional, lo que habla de su funcionalidad y ubicación. Se entrega semiamueblada.",
       "amenidades": [
@@ -182,9 +265,11 @@
         ]
       },
       "condiciones": [
-        "Precio de venta $7,100,000",
+        "Precio de venta $7,100,000 MXN",
+        "Entrega lista 15 días después de firmar el compromiso de compra",
         "Se vende semiamueblada (hay faltantes; la cocina está por terminarse)",
-        "Escrituras y predial al corriente"
+        "Escrituras y predial al corriente; se entrega libre de gravamen (la hipoteca vigente se liquida y cancela en el cierre, ante notario)",
+        "Compradores extranjeros bienvenidos: la compra se formaliza mediante fideicomiso bancario; te ponemos en contacto con un notario que lo tramita"
       ],
       "bitacora": [
         {
@@ -195,7 +280,8 @@
             "img/casa-lomas/avances/2026-01-bano-plomeria.jpg",
             "img/casa-lomas/avances/2026-01-hidroneumatico.jpg",
             "img/casa-lomas/avances/2026-01-bomba.jpg"
-          ]
+          ],
+          "en": "Tune-up started: bathroom check (sinks, faucets and drains), plumbing and the pressure system with its pump. Painting, finishes, electrical, landscaping and roof waterproofing follow. These are the «before» photos; the «after» will be posted here."
         }
       ],
       "fotos": [
@@ -206,47 +292,146 @@
         "img/casa-lomas/05-fachada-lateral.jpg",
         "img/casa-lomas/06-porche.jpg"
       ],
-      "destacada": false,
+      "destacada": true,
       "ubicacion_texto": "Lomas de las Flores II es un fraccionamiento residencial cerrado, con casetas de vigilancia, a una calle de la avenida Lázaro Cárdenas. La casa queda a cinco minutos del aeropuerto y de la central de autobuses, y a unos pasos de la red hospitalaria de la ciudad: el Hospital General de Especialidades y el Centro Estatal de Oncología están a menos de un kilómetro, caminando.",
       "cercanias": [
         {
           "nombre": "Hospital General de Especialidades «Dr. Javier Buenfil Osorio»",
-          "dato": "500 m · 8 min a pie"
+          "dato": "500 m · 8 min a pie",
+          "en": {
+            "nombre": "General Specialty Hospital «Dr. Javier Buenfil Osorio»",
+            "dato": "500 m · 8 min walk"
+          }
         },
         {
           "nombre": "Centro Estatal de Oncología",
-          "dato": "700 m · 10 min a pie"
+          "dato": "700 m · 10 min a pie",
+          "en": {
+            "nombre": "State Oncology Center",
+            "dato": "700 m · 10 min walk"
+          }
         },
         {
           "nombre": "Central de autobuses ADO",
-          "dato": "2.4 km · 6 min en auto"
+          "dato": "2.4 km · 6 min en auto",
+          "en": {
+            "nombre": "ADO bus terminal",
+            "dato": "2.4 km · 6 min drive"
+          }
         },
         {
           "nombre": "Aeropuerto Internacional de Campeche",
-          "dato": "3.1 km · 7 min en auto"
+          "dato": "3.1 km · 7 min en auto",
+          "en": {
+            "nombre": "Campeche International Airport",
+            "dato": "3.1 km · 7 min drive"
+          }
         },
         {
           "nombre": "Universidad Autónoma de Campeche",
-          "dato": "4.9 km · 11 min en auto"
+          "dato": "4.9 km · 11 min en auto",
+          "en": {
+            "nombre": "Autonomous University of Campeche",
+            "dato": "4.9 km · 11 min drive"
+          }
         },
         {
           "nombre": "IMSS Hospital General de Zona 1",
-          "dato": "4.9 km · 13 min en auto"
+          "dato": "4.9 km · 13 min en auto",
+          "en": {
+            "nombre": "IMSS General Hospital Zone 1",
+            "dato": "4.9 km · 13 min drive"
+          }
         },
         {
           "nombre": "Centro Histórico (Plaza de la Independencia)",
-          "dato": "5–6 km · 15 min en auto"
+          "dato": "5–6 km · 15 min en auto",
+          "en": {
+            "nombre": "Historic Center (Independence Plaza)",
+            "dato": "5–6 km · 15 min drive"
+          }
         },
         {
           "nombre": "Malecón",
-          "dato": "7.6 km · 15 min en auto"
+          "dato": "7.6 km · 15 min en auto",
+          "en": {
+            "nombre": "Seafront promenade (Malecón)",
+            "dato": "7.6 km · 15 min drive"
+          }
         },
         {
           "nombre": "Galerías Campeche",
-          "dato": "6.5 km · 17 min en auto"
+          "dato": "6.5 km · 17 min en auto",
+          "en": {
+            "nombre": "Galerías Campeche shopping mall",
+            "dato": "6.5 km · 17 min drive"
+          }
         }
       ],
-      "usos_texto": "Por su tamaño (445 m² en tres niveles, cuatro baños, cochera para dos autos y dos frentes en esquina) y su estructura de concreto armado, la casa admite más de un uso: residencia familiar, casa con despacho en planta baja, u oficinas corporativas con adecuaciones. Ya funcionó cuatro años como casa de ejecutivos de una constructora nacional."
+      "usos_texto": "Por su tamaño (445 m² en tres niveles, cuatro baños, cochera para dos autos y dos frentes en esquina) y su estructura de concreto armado, la casa admite más de un uso: residencia familiar, casa con despacho en planta baja, u oficinas corporativas con adecuaciones. Ya funcionó cuatro años como casa de ejecutivos de una constructora nacional.",
+      "en": {
+        "titulo": "Three-story corner residence in Lomas de las Flores",
+        "tipo": "house",
+        "antiguedad": "Built in 2013 · 3 stories",
+        "etiqueta_estado": "Delivered in 15 days",
+        "nota_estado": "The house is for sale and is delivered ready, as described, 15 days after the purchase agreement is signed. Meanwhile the tune-up continues at a normal pace; see «Progress» below for before-and-after photos.",
+        "resumen": "Modern corner home in a gated community, minutes from the airport, the bus terminal and the hospitals. Three bedrooms, gym, study, bar and rooftop lounge. Works as a residence or as a home office.",
+        "descripcion": "Modern-style residence on a corner lot with two street frontages, inside the gated community Lomas de las Flores II, one block from Lázaro Cárdenas Avenue. Three stories with 445 m² (4,790 sq ft) of construction on a 209 m² (2,250 sq ft) lot. Ground floor: foyer, living room, dining room and kitchen with island and bar area, laundry room, full bathroom, covered garage for two cars and storage room. First floor: master bedroom with walk-in closet and bathroom with whirlpool tub, two more bedrooms, a full bathroom and a linen room. Second floor: gym, study, full bathroom and a rooftop lounge terrace. Pressure water system and machine room on the roof. For four years it housed executives of a national construction company, which speaks to its functionality and location. Sold semi-furnished.",
+        "amenidades": [
+          "Gated community with guard houses",
+          "Corner lot with two frontages",
+          "3 stories · 445 m² (4,790 sq ft) of construction",
+          "7 min to the airport, 6 min to the ADO bus terminal",
+          "Specialty and Oncology hospitals within walking distance",
+          "Master bedroom with walk-in closet",
+          "Whirlpool tub",
+          "Gym and study",
+          "Rooftop lounge terrace",
+          "Bar area with cantera-stone counter",
+          "Covered garage for 2 cars",
+          "Suitable as a home, home office or offices"
+        ],
+        "equipamiento": {
+          "Ground floor": [
+            "Foyer with A/C",
+            "Living room",
+            "Dining room for 12",
+            "Kitchen with island, 5-burner range and hood",
+            "Bar area with wood and cantera-stone counter",
+            "Laundry room with washer and dryer",
+            "Full bathroom",
+            "Covered garage for 2 cars and storage room"
+          ],
+          "First floor": [
+            "King master bedroom with built-in bookcase and walk-in closet",
+            "Master bath with double vanity, shower and whirlpool tub",
+            "Two secondary bedrooms",
+            "Shared full bathroom",
+            "Linen room"
+          ],
+          "Second floor": [
+            "Gym with rubber flooring",
+            "Study",
+            "Full bathroom",
+            "Rooftop lounge terrace"
+          ],
+          "Systems and finishes": [
+            "Pressure water system and machine room on the roof",
+            "Mini-split air conditioners",
+            "Porcelain tile in common areas, laminate wood flooring in bedrooms",
+            "Solid mahogany front door"
+          ]
+        },
+        "condiciones": [
+          "Asking price MXN $7,100,000",
+          "Delivered ready 15 days after the purchase agreement is signed",
+          "Sold semi-furnished (some items missing; the kitchen is to be finished)",
+          "Clear title at closing; property tax up to date. The current mortgage is paid off and the lien released at closing, before the notary",
+          "Foreign buyers welcome: the purchase is formalized through a bank trust (fideicomiso); we can connect you with a notary who handles it"
+        ],
+        "ubicacion_texto": "Lomas de las Flores II is a gated residential community with guard houses, one block from Lázaro Cárdenas Avenue. The house is five minutes from the airport and the bus terminal, and steps from the city's hospital district: the General Specialty Hospital and the State Oncology Center are less than a kilometer away, on foot. Campeche is a UNESCO World Heritage walled city and one of the safest states in Mexico, two hours from Mérida.",
+        "usos_texto": "Given its size (445 m² on three stories, four bathrooms, two-car garage and two corner frontages) and its reinforced-concrete structure, the house lends itself to more than one use: family residence, home with a ground-floor office, or corporate offices with adaptations. It already served four years as a residence for executives of a national construction company."
+      }
     }
   ]
 }

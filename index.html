@@ -7,7 +7,7 @@
   <meta name="description" content="Casas y departamentos seleccionados en venta y renta en Campeche.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/estilo.css?v=4">
+  <link rel="stylesheet" href="css/estilo.css?v=5">
 </head>
 <body>
 
@@ -15,9 +15,10 @@
   <div class="contenedor">
     <a class="marca" href="index.html" data-marca>Sastal <span>Propiedades</span></a>
     <nav class="nav">
-      <a href="#propiedades">Propiedades</a>
-      <a href="#nosotros">Nosotros</a>
-      <a href="#contacto">Contacto</a>
+      <a href="#propiedades" data-i18n="nav.propiedades">Propiedades</a>
+      <a href="#nosotros" data-i18n="nav.nosotros">Nosotros</a>
+      <a href="#contacto" data-i18n="nav.contacto">Contacto</a>
+      <a href="#" id="idioma" class="idioma" aria-label="Idioma / Language">EN</a>
     </nav>
   </div>
 </header>
@@ -25,10 +26,10 @@
 <section class="portada">
   <img id="portada-img" src="" alt="">
   <div class="contenedor contenido">
-    <div class="ojo">Campeche · Venta y renta</div>
-    <h1>Casas con historia, hogares con calma.</h1>
-    <p>Una selección corta de propiedades en Campeche, presentadas con el cuidado que merecen.</p>
-    <a class="boton claro" href="#propiedades">Ver propiedades</a>
+    <div class="ojo" data-i18n="portada.ojo">Campeche · Venta y renta</div>
+    <h1 data-i18n="portada.h1">Casas con historia, hogares con calma.</h1>
+    <p data-i18n="portada.p">Una selección corta de propiedades en Campeche, presentadas con el cuidado que merecen.</p>
+    <a class="boton claro" href="#propiedades" data-i18n="portada.boton">Ver propiedades</a>
   </div>
 </section>
 
@@ -36,13 +37,13 @@
   <div class="contenedor">
     <div class="seccion-cabeza">
       <div>
-        <div class="ojo">Catálogo</div>
-        <h2>Propiedades disponibles</h2>
+        <div class="ojo" data-i18n="cat.ojo">Catálogo</div>
+        <h2 data-i18n="cat.h2">Propiedades disponibles</h2>
       </div>
       <div class="filtros">
-        <button class="activo" data-filtro="todas">Todas</button>
-        <button data-filtro="venta">Venta</button>
-        <button data-filtro="renta">Renta</button>
+        <button class="activo" data-filtro="todas" data-i18n="filtro.todas">Todas</button>
+        <button data-filtro="venta" data-i18n="filtro.venta">Venta</button>
+        <button data-filtro="renta" data-i18n="filtro.renta">Renta</button>
       </div>
     </div>
     <div class="rejilla" id="rejilla"></div>
@@ -51,25 +52,25 @@
 
 <section class="seccion huevo" id="nosotros">
   <div class="contenedor dos-columnas">
-    <img src="img/depto-valle-del-sol/02-sala.jpg" alt="Sala del departamento en Valle del Sol">
+    <img src="img/casa-lomas/06-porche.jpg" alt="Casa Lomas de las Flores">
     <div>
-      <div class="ojo">Nosotros</div>
-      <h2>Pocas propiedades, bien atendidas.</h2>
-      <p>No somos un portal: somos propietarios que muestran directamente lo que ofrecen. Cada casa se visita acompañada, con la documentación en regla y sin intermediarios.</p>
-      <p>Si buscas comprar o rentar en Campeche y prefieres hablar directo, escríbenos.</p>
-      <a class="boton" href="#contacto">Hablemos</a>
+      <div class="ojo" data-i18n="nos.ojo">Nosotros</div>
+      <h2 data-i18n="nos.h2">Pocas propiedades, bien atendidas.</h2>
+      <p data-i18n="nos.p1">No somos un portal: somos propietarios que muestran directamente lo que ofrecen. Cada casa se visita acompañada, con la documentación en regla y sin intermediarios.</p>
+      <p data-i18n="nos.p2">Si buscas comprar o rentar en Campeche y prefieres hablar directo, escríbenos.</p>
+      <a class="boton" href="#contacto" data-i18n="nos.boton">Hablemos</a>
     </div>
   </div>
 </section>
 
 <section class="seccion contacto" id="contacto">
   <div class="contenedor">
-    <div class="ojo">Contacto</div>
-    <h2>¿Te gustaría visitar alguna?</h2>
-    <p>Escríbenos por WhatsApp o correo y agendamos una visita el mismo día.</p>
+    <div class="ojo" data-i18n="con.ojo">Contacto</div>
+    <h2 data-i18n="con.h2">¿Te gustaría visitar alguna?</h2>
+    <p data-i18n="con.p">Escríbenos por WhatsApp o correo y agendamos una visita el mismo día.</p>
     <div class="acciones">
       <a class="boton solido" data-whats href="#" target="_blank" rel="noopener">WhatsApp</a>
-      <a class="boton" data-correo href="#">Correo</a>
+      <a class="boton" data-correo href="#" data-i18n="correo">Correo</a>
     </div>
   </div>
 </section>
@@ -81,6 +82,6 @@
   </div>
 </footer>
 
-<script src="js/app.js?v=4"></script>
+<script src="js/app.js?v=5"></script>
 </body>
 </html>
