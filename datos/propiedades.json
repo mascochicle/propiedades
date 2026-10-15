@@ -524,6 +524,262 @@
         "ubicacion_texto": "Lomas de las Flores II is a gated residential community with guard houses, one block from Lázaro Cárdenas Avenue. The house is five minutes from the airport and the bus terminal, and steps from the city's hospital district: the General Specialty Hospital and the State Oncology Center are less than a kilometer away, on foot. Campeche is a UNESCO World Heritage walled city and one of the safest states in Mexico, two hours from Mérida.",
         "usos_texto": "Given its size (445 m² on three stories, four bathrooms, two-car garage and two corner frontages) and its reinforced-concrete structure, the house lends itself to more than one use: family residence, home with a ground-floor office, or corporate offices with adaptations. It already served four years as a residence for executives of a national construction company."
       }
+    },
+    {
+      "clave": "casa-san-antonio",
+      "titulo": "Casa amueblada de dos recámaras en San Antonio",
+      "operacion": "renta",
+      "tipo": "casa",
+      "precio": 15000,
+      "moneda": "MXN",
+      "periodo": "mes",
+      "colonia": "San Antonio",
+      "ciudad": "Campeche",
+      "lat": 19.8221,
+      "lng": -90.5418,
+      "terreno_m2": null,
+      "construccion_m2": null,
+      "recamaras": 2,
+      "banos": 1.5,
+      "estacionamientos": 2,
+      "antiguedad": "2 niveles",
+      "estado": "rentada",
+      "disponible_desde": null,
+      "resumen": "Casa de dos niveles, amueblada y equipada, con dos recámaras, baño y medio, cochera techada y terraza en la azotea. A una calle de la avenida López Portillo, a 4 minutos de la universidad y 7 del ADO.",
+      "descripcion": "Casa de dos niveles en una calle tranquila de la colonia San Antonio, con salida directa a la avenida José López Portillo. Se entrega amueblada y equipada. En planta baja: recibidor, sala con minisplit y pantalla, comedor de madera para seis, cocina con barra tipo cantina, estufa de cinco quemadores, campana, refrigerador, microondas y vajilla completa, medio baño de visitas y área de lavado con lavadora y calentador. En planta alta: dos recámaras con cama matrimonial, armario de madera, pantalla, minisplit y ventilador, y un baño completo con regadera. En la azotea, una terraza techada con mesa y sillas. Cochera techada con portón para dos autos y un pequeño jardín de grava al frente. Ha funcionado como casa para personal de empresas que trabajan en Campeche.",
+      "amenidades": [
+        "Amueblada y equipada",
+        "2 recámaras con cama matrimonial y armario",
+        "Minisplit en sala, comedor y recámaras",
+        "Terraza techada en la azotea",
+        "Cochera techada para 2 autos",
+        "Cocina con barra y electrodomésticos",
+        "Lavadora y calentador de agua",
+        "Medio baño de visitas",
+        "Internet básico, agua y jardinería incluidos",
+        "Calle tranquila con salida a Av. López Portillo"
+      ],
+      "equipamiento": {
+        "Sala y comedor": [
+          "Dos loveseats y dos sillones con mesa de centro",
+          "Pantalla Sony",
+          "Minisplit y ventilador con luminaria",
+          "Comedor de madera con 6 sillas",
+          "Librero y espejo",
+          "Cortinas"
+        ],
+        "Cocina": [
+          "Barra tipo cantina con puertas vaivén y cava para copas",
+          "Estufa de 5 quemadores con campana",
+          "Refrigerador Samsung",
+          "Horno de microondas LG",
+          "Cafetera, licuadora, extractor y procesador Ninja",
+          "Vajilla, cristalería, cubiertos y batería de cocina"
+        ],
+        "Recámaras": [
+          "Cama matrimonial con cabecera y ropa de cama",
+          "Armario de madera con puertas y cajones",
+          "Pantalla con control",
+          "Minisplit y ventilador de techo",
+          "Repisas y burós colgantes"
+        ],
+        "Baños": [
+          "Baño completo en planta alta con regadera",
+          "Medio baño en planta baja"
+        ],
+        "Exterior": [
+          "Terraza techada en azotea con mesa y sillas",
+          "Cochera techada con portón de reja",
+          "Área de lavado con lavadora Samsung y calentador",
+          "Jardín de grava con plantas"
+        ]
+      },
+      "condiciones": [
+        "Renta $15,000 al mes; incluye agua, internet básico y jardinería",
+        "Luz por separado",
+        "Depósito de un mes",
+        "Contrato mínimo de un año",
+        "Uso de casa habitación; ideal para personal de empresas"
+      ],
+      "fotos": [
+        "img/casa-san-antonio/01-fachada.jpg",
+        "img/casa-san-antonio/02-sala.jpg",
+        "img/casa-san-antonio/03-sala-tv.jpg",
+        "img/casa-san-antonio/04-cocina-barra.jpg",
+        "img/casa-san-antonio/05-cocina.jpg",
+        "img/casa-san-antonio/06-comedor.jpg",
+        "img/casa-san-antonio/07-recamara-1.jpg",
+        "img/casa-san-antonio/08-recamara-1-closet.jpg",
+        "img/casa-san-antonio/09-recamara-2.jpg",
+        "img/casa-san-antonio/10-recamara-2-closet.jpg",
+        "img/casa-san-antonio/11-bano.jpg",
+        "img/casa-san-antonio/12-terraza.jpg",
+        "img/casa-san-antonio/13-cochera.jpg",
+        "img/casa-san-antonio/14-lavado.jpg",
+        "img/casa-san-antonio/15-medio-bano.jpg"
+      ],
+      "destacada": false,
+      "ubicacion_texto": "La colonia San Antonio queda sobre la avenida José López Portillo, a medio camino entre el Centro Histórico y la zona del aeropuerto. La casa está en una calle corta y tranquila con salida directa a la avenida, a 4 minutos de la Universidad Autónoma de Campeche y a 7 de la central de autobuses y del IMSS. Hospitales, malecón, centro y aeropuerto quedan todos a 10 minutos o menos.",
+      "cercanias": [
+        {
+          "nombre": "Universidad Autónoma de Campeche",
+          "dato": "1.8 km · 4 min en auto",
+          "en": {
+            "nombre": "Autonomous University of Campeche",
+            "dato": "1.8 km · 4 min drive"
+          }
+        },
+        {
+          "nombre": "Central de autobuses ADO",
+          "dato": "2.4 km · 7 min en auto",
+          "en": {
+            "nombre": "ADO bus terminal",
+            "dato": "2.4 km · 7 min drive"
+          }
+        },
+        {
+          "nombre": "IMSS Hospital General de Zona 1",
+          "dato": "2.4 km · 7 min en auto",
+          "en": {
+            "nombre": "IMSS General Hospital Zone 1",
+            "dato": "2.4 km · 7 min drive"
+          }
+        },
+        {
+          "nombre": "Centro Estatal de Oncología",
+          "dato": "3.0 km · 7 min en auto",
+          "en": {
+            "nombre": "State Oncology Center",
+            "dato": "3.0 km · 7 min drive"
+          }
+        },
+        {
+          "nombre": "Hospital General de Especialidades",
+          "dato": "3.2 km · 8 min en auto",
+          "en": {
+            "nombre": "General Specialty Hospital",
+            "dato": "3.2 km · 8 min drive"
+          }
+        },
+        {
+          "nombre": "Mercado Principal",
+          "dato": "3.0 km · 9 min en auto",
+          "en": {
+            "nombre": "Main Market",
+            "dato": "3.0 km · 9 min drive"
+          }
+        },
+        {
+          "nombre": "Malecón",
+          "dato": "4.6 km · 9 min en auto",
+          "en": {
+            "nombre": "Seafront promenade (Malecón)",
+            "dato": "4.6 km · 9 min drive"
+          }
+        },
+        {
+          "nombre": "Centro Histórico (Plaza de la Independencia)",
+          "dato": "3.5 km · 10 min en auto",
+          "en": {
+            "nombre": "Historic Center (Independence Plaza)",
+            "dato": "3.5 km · 10 min drive"
+          }
+        },
+        {
+          "nombre": "Aeropuerto Internacional de Campeche",
+          "dato": "5.2 km · 10 min en auto",
+          "en": {
+            "nombre": "Campeche International Airport",
+            "dato": "5.2 km · 10 min drive"
+          }
+        },
+        {
+          "nombre": "Sam's Club y Walmart",
+          "dato": "5.3 km · 11 min en auto",
+          "en": {
+            "nombre": "Sam's Club and Walmart",
+            "dato": "5.3 km · 11 min drive"
+          }
+        },
+        {
+          "nombre": "Chedraui Santa Ana (súper)",
+          "dato": "4.3 km · 13 min en auto",
+          "en": {
+            "nombre": "Chedraui Santa Ana (supermarket)",
+            "dato": "4.3 km · 13 min drive"
+          }
+        },
+        {
+          "nombre": "Galerías Campeche",
+          "dato": "6.4 km · 13 min en auto",
+          "en": {
+            "nombre": "Galerías Campeche shopping mall",
+            "dato": "6.4 km · 13 min drive"
+          }
+        }
+      ],
+      "en": {
+        "titulo": "Furnished two-bedroom house in San Antonio",
+        "tipo": "house",
+        "antiguedad": "2 stories",
+        "resumen": "Two-story house, furnished and equipped, with two bedrooms, one and a half baths, covered carport and rooftop terrace. One block from López Portillo Avenue, 4 minutes from the university and 7 from the bus terminal.",
+        "descripcion": "Two-story house on a quiet street in the San Antonio neighborhood, with direct access to José López Portillo Avenue. It comes furnished and equipped. Ground floor: foyer, living room with mini-split and TV, wooden dining table for six, kitchen with a saloon-style bar counter, 5-burner range, hood, refrigerator, microwave and full dinnerware, guest half bath, and laundry area with washer and water heater. Upper floor: two bedrooms with double bed, wooden wardrobe, TV, mini-split and ceiling fan, plus a full bathroom with shower. On the roof, a covered terrace with table and chairs. Covered carport with gate for two cars and a small gravel garden at the front. It has served as housing for staff of companies working in Campeche.",
+        "amenidades": [
+          "Furnished and equipped",
+          "2 bedrooms with double bed and wardrobe",
+          "Mini-split in living room, dining room and bedrooms",
+          "Covered rooftop terrace",
+          "Covered carport for 2 cars",
+          "Kitchen with bar counter and appliances",
+          "Washer and water heater",
+          "Guest half bath",
+          "Basic internet, water and gardening included",
+          "Quiet street with access to López Portillo Ave."
+        ],
+        "equipamiento": {
+          "Living and dining": [
+            "Two loveseats and two armchairs with coffee table",
+            "Sony TV",
+            "Mini-split and ceiling fan with light",
+            "Wooden dining table with 6 chairs",
+            "Bookcase and mirror",
+            "Curtains"
+          ],
+          "Kitchen": [
+            "Saloon-style bar counter with swing doors and glass rack",
+            "5-burner range with hood",
+            "Samsung refrigerator",
+            "LG microwave oven",
+            "Coffee maker, blender, juicer and Ninja processor",
+            "Dishes, glassware, cutlery and cookware"
+          ],
+          "Bedrooms": [
+            "Double bed with headboard and linens",
+            "Wooden wardrobe with doors and drawers",
+            "TV with remote",
+            "Mini-split and ceiling fan",
+            "Floating shelves and nightstands"
+          ],
+          "Bathrooms": [
+            "Full bathroom upstairs with shower",
+            "Half bath downstairs"
+          ],
+          "Outdoors": [
+            "Covered rooftop terrace with table and chairs",
+            "Covered carport with gate",
+            "Laundry area with Samsung washer and water heater",
+            "Gravel garden with plants"
+          ]
+        },
+        "condiciones": [
+          "Rent MXN $15,000 per month; includes water, basic internet and gardening",
+          "Electricity billed separately",
+          "One month's deposit",
+          "Minimum one-year lease",
+          "Residential use; ideal for company staff"
+        ],
+        "ubicacion_texto": "The San Antonio neighborhood sits on José López Portillo Avenue, halfway between the Historic Center and the airport area. The house is on a short, quiet street with direct access to the avenue, 4 minutes from the Autonomous University of Campeche and 7 from the bus terminal and the IMSS hospital. Hospitals, the seafront, downtown and the airport are all within 10 minutes."
+      }
     }
   ]
 }
