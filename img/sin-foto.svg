@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1200">
+  <rect width="1600" height="1200" fill="#e9e1d3"/>
+  <g fill="none" stroke="#8c7b5a" stroke-width="6" stroke-linejoin="round">
+    <rect x="560" y="440" width="480" height="320" rx="24"/>
+    <circle cx="800" cy="600" r="90"/>
+    <circle cx="800" cy="600" r="44"/>
+    <rect x="720" y="392" width="160" height="48" rx="12"/>
+  </g>
+  <text x="800" y="860" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="56" fill="#6f6146">Fotos próximamente</text>
+  <text x="800" y="920" text-anchor="middle" font-family="system-ui, sans-serif" font-size="30" letter-spacing="4" fill="#7a746b">PHOTOS COMING SOON</text>
+</svg>

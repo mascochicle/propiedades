@@ -1025,6 +1025,172 @@
         ],
         "ubicacion_texto": "Barrio de San José is an established residential area on Luis Donaldo Colosio Avenue, one of the city's main avenues, between the Historic Center and the airport area. The Centro Médico de Campeche private hospital is a six-minute walk away and Bicentenario Park fifteen; by car, the IMSS hospital and the university are 5 minutes away, the seafront and the market 6, and the Historic Center 8."
       }
+    },
+    {
+      "clave": "local-spa",
+      "titulo": "Local comercial en planta alta sobre la avenida López Portillo",
+      "operacion": "renta",
+      "tipo": "local",
+      "precio": 6000,
+      "moneda": "MXN",
+      "periodo": "mes",
+      "colonia": "San Antonio",
+      "ciudad": "Campeche",
+      "lat": 19.8221,
+      "lng": -90.5418,
+      "terreno_m2": null,
+      "construccion_m2": 48,
+      "recamaras": null,
+      "banos": null,
+      "estacionamientos": null,
+      "antiguedad": "Planta alta · acceso independiente",
+      "estado": "rentada",
+      "disponible_desde": "2027-09-10",
+      "resumen": "Local de 48 m² en planta alta con frente a la avenida José López Portillo, una de las vías principales de Campeche. Acceso propio por escalera de caracol. Sirve como oficina, consultorio o estética.",
+      "descripcion": "Local comercial de 48 m² en la planta alta de un edificio de dos niveles con frente a la avenida José López Portillo, en la colonia San Antonio. Tiene acceso independiente por escalera de caracol desde la planta baja y un frente de 8 metros sobre la avenida, con mucho paso de vehículos y transporte urbano. En la planta baja funciona un minisúper, lo que da flujo constante de gente. Ha funcionado como spa y como oficina. Se entrega vacío, listo para adaptarse al giro del inquilino.",
+      "amenidades": [
+        "48 m² en planta alta",
+        "Frente de 8 m sobre la avenida López Portillo",
+        "Acceso independiente por escalera de caracol",
+        "Minisúper en la planta baja: flujo constante",
+        "Transporte urbano en la puerta",
+        "Apto para oficina, consultorio o estética",
+        "A 4 min de la universidad y 7 del ADO"
+      ],
+      "condiciones": [
+        "Renta $6,000 al mes",
+        "Luz y demás servicios por cuenta del inquilino",
+        "Depósito de un mes",
+        "Contrato mínimo de un año",
+        "Giros: oficina, consultorio, estética o similares (sin ruido ni comida)"
+      ],
+      "fotos": [
+        "img/sin-foto.svg"
+      ],
+      "destacada": false,
+      "ubicacion_texto": "La avenida José López Portillo es una de las arterias principales de Campeche: conecta el Centro Histórico con la zona del aeropuerto y lleva transporte urbano todo el día. El local está a 4 minutos en auto de la Universidad Autónoma de Campeche, a 7 de la central de autobuses y del IMSS, y a 10 del Centro Histórico y del aeropuerto.",
+      "cercanias": [
+        {
+          "nombre": "Universidad Autónoma de Campeche",
+          "dato": "1.8 km · 4 min en auto",
+          "en": {
+            "nombre": "Autonomous University of Campeche",
+            "dato": "1.8 km · 4 min drive"
+          }
+        },
+        {
+          "nombre": "Central de autobuses ADO",
+          "dato": "2.4 km · 7 min en auto",
+          "en": {
+            "nombre": "ADO bus terminal",
+            "dato": "2.4 km · 7 min drive"
+          }
+        },
+        {
+          "nombre": "IMSS Hospital General de Zona 1",
+          "dato": "2.4 km · 7 min en auto",
+          "en": {
+            "nombre": "IMSS General Hospital Zone 1",
+            "dato": "2.4 km · 7 min drive"
+          }
+        },
+        {
+          "nombre": "Centro Estatal de Oncología",
+          "dato": "3.0 km · 7 min en auto",
+          "en": {
+            "nombre": "State Oncology Center",
+            "dato": "3.0 km · 7 min drive"
+          }
+        },
+        {
+          "nombre": "Hospital General de Especialidades",
+          "dato": "3.2 km · 8 min en auto",
+          "en": {
+            "nombre": "General Specialty Hospital",
+            "dato": "3.2 km · 8 min drive"
+          }
+        },
+        {
+          "nombre": "Mercado Principal",
+          "dato": "3.0 km · 9 min en auto",
+          "en": {
+            "nombre": "Main Market",
+            "dato": "3.0 km · 9 min drive"
+          }
+        },
+        {
+          "nombre": "Malecón",
+          "dato": "4.6 km · 9 min en auto",
+          "en": {
+            "nombre": "Seafront promenade (Malecón)",
+            "dato": "4.6 km · 9 min drive"
+          }
+        },
+        {
+          "nombre": "Centro Histórico (Plaza de la Independencia)",
+          "dato": "3.5 km · 10 min en auto",
+          "en": {
+            "nombre": "Historic Center (Independence Plaza)",
+            "dato": "3.5 km · 10 min drive"
+          }
+        },
+        {
+          "nombre": "Aeropuerto Internacional de Campeche",
+          "dato": "5.2 km · 10 min en auto",
+          "en": {
+            "nombre": "Campeche International Airport",
+            "dato": "5.2 km · 10 min drive"
+          }
+        },
+        {
+          "nombre": "Sam's Club y Walmart",
+          "dato": "5.3 km · 11 min en auto",
+          "en": {
+            "nombre": "Sam's Club and Walmart",
+            "dato": "5.3 km · 11 min drive"
+          }
+        },
+        {
+          "nombre": "Chedraui Santa Ana (súper)",
+          "dato": "4.3 km · 13 min en auto",
+          "en": {
+            "nombre": "Chedraui Santa Ana (supermarket)",
+            "dato": "4.3 km · 13 min drive"
+          }
+        },
+        {
+          "nombre": "Galerías Campeche",
+          "dato": "6.4 km · 13 min en auto",
+          "en": {
+            "nombre": "Galerías Campeche shopping mall",
+            "dato": "6.4 km · 13 min drive"
+          }
+        }
+      ],
+      "en": {
+        "titulo": "Upper-floor commercial space on López Portillo Avenue",
+        "tipo": "commercial space",
+        "antiguedad": "Upper floor · independent access",
+        "resumen": "48 m² (520 sq ft) space on the upper floor, fronting José López Portillo Avenue, one of Campeche's main roads. Its own spiral-staircase entrance. Suits an office, clinic or beauty studio.",
+        "descripcion": "48 m² (520 sq ft) commercial space on the upper floor of a two-story building fronting José López Portillo Avenue, in the San Antonio neighborhood. It has an independent entrance by spiral staircase from the ground floor and an 8-meter frontage on the avenue, with heavy vehicle traffic and city buses. A mini-market operates on the ground floor, which brings constant foot traffic. It has operated as a spa and as an office. Delivered empty, ready to be fitted out for the tenant's business.",
+        "amenidades": [
+          "48 m² (520 sq ft) on the upper floor",
+          "8 m frontage on López Portillo Avenue",
+          "Independent spiral-staircase entrance",
+          "Mini-market downstairs: constant foot traffic",
+          "City buses at the door",
+          "Suits an office, clinic or beauty studio",
+          "4 min to the university, 7 to the bus terminal"
+        ],
+        "condiciones": [
+          "Rent MXN $6,000 per month",
+          "Electricity and other utilities paid by the tenant",
+          "One month's deposit",
+          "Minimum one-year lease",
+          "Uses: office, clinic, beauty studio or similar (no noise, no food service)"
+        ],
+        "ubicacion_texto": "José López Portillo Avenue is one of Campeche's main arteries: it links the Historic Center with the airport area and carries city buses all day. The space is 4 minutes by car from the Autonomous University of Campeche, 7 from the bus terminal and the IMSS hospital, and 10 from the Historic Center and the airport."
+      }
     }
   ]
 }
