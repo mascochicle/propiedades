@@ -780,6 +780,251 @@
         ],
         "ubicacion_texto": "The San Antonio neighborhood sits on José López Portillo Avenue, halfway between the Historic Center and the airport area. The house is on a short, quiet street with direct access to the avenue, 4 minutes from the Autonomous University of Campeche and 7 from the bus terminal and the IMSS hospital. Hospitals, the seafront, downtown and the airport are all within 10 minutes."
       }
+    },
+    {
+      "clave": "casa-colosio",
+      "titulo": "Casa amueblada de tres recámaras en el Barrio de San José",
+      "operacion": "renta",
+      "tipo": "casa",
+      "precio": 30000,
+      "moneda": "MXN",
+      "periodo": "mes",
+      "colonia": "Barrio de San José",
+      "ciudad": "Campeche",
+      "lat": 19.8327,
+      "lng": -90.543,
+      "terreno_m2": 206,
+      "construccion_m2": 213,
+      "recamaras": 3,
+      "banos": 3,
+      "estacionamientos": 4,
+      "antiguedad": "2 niveles",
+      "estado": "rentada",
+      "disponible_desde": null,
+      "resumen": "Casa de dos niveles sobre la avenida Colosio, amueblada y equipada: tres recámaras con clima y baño, cocina de madera con isla, patio y cochera techada para cuatro autos con portón eléctrico. A 6 minutos del malecón y 8 del Centro Histórico.",
+      "descripcion": "Casa de dos plantas con 213 m² de construcción sobre 206 m² de terreno, en el Barrio de San José, sobre la avenida Luis Donaldo Colosio. Se entrega amueblada y equipada. En planta baja: recibidor con puerta de madera y vitral, dos salas, comedor redondo para seis con trinchador, cocina integral de madera con isla, barra con periqueras, estufa de seis quemadores, campana y refrigerador, baño, y un patio con área de lavado y baño completo. En planta alta: un recibidor que funciona como estudio, con librero y escritorio, la recámara principal con cama queen, baño completo con regadera de puerta de vidrio y piso de duela, y dos recámaras más con cama matrimonial y clóset; las tres con aire acondicionado, ventilador y pantalla. Cochera techada para cuatro autos con portón eléctrico y jardinera. Construcción sólida de block con techos de vigueta y bovedilla. Ha sido casa de ejecutivos de empresas nacionales desde 2023.",
+      "amenidades": [
+        "Amueblada y equipada",
+        "3 recámaras con aire acondicionado y pantalla",
+        "Recámara principal con baño propio",
+        "Estudio con librero en planta alta",
+        "Cocina integral de madera con isla y barra",
+        "Cochera techada para 4 autos con portón eléctrico",
+        "Patio con área de lavado y baño",
+        "Piso de duela en recámaras",
+        "Sobre la avenida Colosio, a 6 min del malecón",
+        "Centro Médico de Campeche a 6 min a pie"
+      ],
+      "equipamiento": {
+        "Planta baja": [
+          "Dos juegos de sala con mesas de centro",
+          "Comedor redondo de madera con 6 sillas y trinchador",
+          "Cocina integral de madera con isla y barra con 2 periqueras",
+          "Estufa de 6 quemadores con horno y campana",
+          "Refrigerador, hornito eléctrico y licuadora",
+          "Baño",
+          "Ventiladores de techo con iluminación",
+          "Patio con área de lavado, baño completo y calentador"
+        ],
+        "Planta alta": [
+          "Estudio con librero de madera y escritorio",
+          "Recámara principal con cama queen, burós, cajonera y pantalla",
+          "Baño principal con mueble de madera, espejo y regadera con puerta de vidrio",
+          "Dos recámaras con cama matrimonial, clóset y pantalla",
+          "Aire acondicionado y ventilador en las tres recámaras",
+          "Persianas y cortinas"
+        ],
+        "Exterior": [
+          "Cochera techada para 4 autos con portón eléctrico",
+          "Jardinera y macetas",
+          "Reja y puerta de acceso independiente"
+        ]
+      },
+      "condiciones": [
+        "Renta $30,000 al mes",
+        "Luz por separado",
+        "Depósito de un mes",
+        "Contrato mínimo de un año",
+        "Uso de casa habitación; ideal para ejecutivos o personal de empresas"
+      ],
+      "fotos": [
+        "img/casa-colosio/01-fachada.jpg",
+        "img/casa-colosio/02-sala.jpg",
+        "img/casa-colosio/03-recibidor.jpg",
+        "img/casa-colosio/04-comedor.jpg",
+        "img/casa-colosio/05-cocina-isla.jpg",
+        "img/casa-colosio/06-cocina.jpg",
+        "img/casa-colosio/07-barra.jpg",
+        "img/casa-colosio/08-escalera.jpg",
+        "img/casa-colosio/09-recamara-principal.jpg",
+        "img/casa-colosio/10-bano-principal.jpg",
+        "img/casa-colosio/11-recamara-2.jpg",
+        "img/casa-colosio/12-estudio.jpg",
+        "img/casa-colosio/13-recamara-3.jpg",
+        "img/casa-colosio/14-cochera.jpg",
+        "img/casa-colosio/15-patio.jpg",
+        "img/casa-colosio/16-calle.jpg"
+      ],
+      "destacada": false,
+      "ubicacion_texto": "El Barrio de San José es una zona habitacional consolidada sobre la avenida Luis Donaldo Colosio, una de las principales de la ciudad, entre el Centro Histórico y la zona del aeropuerto. El Centro Médico de Campeche queda a seis minutos a pie y el Parque Bicentenario a quince; en auto, el IMSS y la universidad están a 5 minutos, el malecón y el mercado a 6, y el Centro Histórico a 8.",
+      "cercanias": [
+        {
+          "nombre": "Centro Médico de Campeche",
+          "dato": "450 m · 6 min a pie",
+          "en": {
+            "nombre": "Centro Médico de Campeche (private hospital)",
+            "dato": "450 m · 6 min walk"
+          }
+        },
+        {
+          "nombre": "Parque Bicentenario",
+          "dato": "1.3 km · 18 min a pie",
+          "en": {
+            "nombre": "Bicentenario Park",
+            "dato": "1.3 km · 18 min walk"
+          }
+        },
+        {
+          "nombre": "IMSS Hospital General de Zona 1",
+          "dato": "1.9 km · 4 min en auto",
+          "en": {
+            "nombre": "IMSS General Hospital Zone 1",
+            "dato": "1.9 km · 4 min drive"
+          }
+        },
+        {
+          "nombre": "Universidad Autónoma de Campeche",
+          "dato": "2.5 km · 5 min en auto",
+          "en": {
+            "nombre": "Autonomous University of Campeche",
+            "dato": "2.5 km · 5 min drive"
+          }
+        },
+        {
+          "nombre": "Mercado Principal",
+          "dato": "1.9 km · 6 min en auto",
+          "en": {
+            "nombre": "Main Market",
+            "dato": "1.9 km · 6 min drive"
+          }
+        },
+        {
+          "nombre": "Malecón",
+          "dato": "3.1 km · 6 min en auto",
+          "en": {
+            "nombre": "Seafront promenade (Malecón)",
+            "dato": "3.1 km · 6 min drive"
+          }
+        },
+        {
+          "nombre": "Sam's Club y Walmart",
+          "dato": "3.8 km · 7 min en auto",
+          "en": {
+            "nombre": "Sam's Club and Walmart",
+            "dato": "3.8 km · 7 min drive"
+          }
+        },
+        {
+          "nombre": "Centro Histórico (Plaza de la Independencia)",
+          "dato": "2.9 km · 8 min en auto",
+          "en": {
+            "nombre": "Historic Center (Independence Plaza)",
+            "dato": "2.9 km · 8 min drive"
+          }
+        },
+        {
+          "nombre": "Central de autobuses ADO",
+          "dato": "3.4 km · 9 min en auto",
+          "en": {
+            "nombre": "ADO bus terminal",
+            "dato": "3.4 km · 9 min drive"
+          }
+        },
+        {
+          "nombre": "Galerías Campeche",
+          "dato": "5.0 km · 9 min en auto",
+          "en": {
+            "nombre": "Galerías Campeche shopping mall",
+            "dato": "5.0 km · 9 min drive"
+          }
+        },
+        {
+          "nombre": "Hospital General de Especialidades",
+          "dato": "4.5 km · 10 min en auto",
+          "en": {
+            "nombre": "General Specialty Hospital",
+            "dato": "4.5 km · 10 min drive"
+          }
+        },
+        {
+          "nombre": "Centro Estatal de Oncología",
+          "dato": "4.3 km · 10 min en auto",
+          "en": {
+            "nombre": "State Oncology Center",
+            "dato": "4.3 km · 10 min drive"
+          }
+        },
+        {
+          "nombre": "Aeropuerto Internacional de Campeche",
+          "dato": "6.8 km · 14 min en auto",
+          "en": {
+            "nombre": "Campeche International Airport",
+            "dato": "6.8 km · 14 min drive"
+          }
+        }
+      ],
+      "en": {
+        "titulo": "Furnished three-bedroom house in Barrio de San José",
+        "tipo": "house",
+        "antiguedad": "2 stories",
+        "resumen": "Two-story house on Colosio Avenue, furnished and equipped: three air-conditioned bedrooms, three bathrooms, wooden kitchen with island, patio and covered garage for four cars with electric gate. 6 minutes from the seafront and 8 from the Historic Center.",
+        "descripcion": "Two-story house with 213 m² (2,290 sq ft) of construction on a 206 m² (2,220 sq ft) lot, in Barrio de San José on Luis Donaldo Colosio Avenue. It comes furnished and equipped. Ground floor: foyer with a wooden door and stained glass, two living areas, round dining table for six with sideboard, wooden kitchen with island, bar with stools, 6-burner range, hood and refrigerator, a bathroom, and a patio with laundry area and full bathroom. Upper floor: a landing that works as a study, with bookcase and desk, the master bedroom with queen bed, en-suite bathroom with glass-door shower and wood flooring, and two more bedrooms with double bed and closet; all three with air conditioning, ceiling fan and TV. Covered garage for four cars with electric gate and planter. Solid block construction with concrete joist roofs. It has housed executives of national companies since 2023.",
+        "amenidades": [
+          "Furnished and equipped",
+          "3 bedrooms with air conditioning and TV",
+          "Master bedroom with en-suite bathroom",
+          "Upstairs study with bookcase",
+          "Wooden kitchen with island and bar",
+          "Covered garage for 4 cars with electric gate",
+          "Patio with laundry area and bathroom",
+          "Wood flooring in bedrooms",
+          "On Colosio Avenue, 6 min from the seafront",
+          "Centro Médico de Campeche hospital 6 min on foot"
+        ],
+        "equipamiento": {
+          "Ground floor": [
+            "Two living-room sets with coffee tables",
+            "Round wooden dining table with 6 chairs and sideboard",
+            "Wooden kitchen with island and bar with 2 stools",
+            "6-burner range with oven and hood",
+            "Refrigerator, toaster oven and blender",
+            "Bathroom",
+            "Ceiling fans with lights",
+            "Patio with laundry area, full bathroom and water heater"
+          ],
+          "Upper floor": [
+            "Study with wooden bookcase and desk",
+            "Master bedroom with queen bed, nightstands, dresser and TV",
+            "Master bath with wooden vanity, mirror and glass-door shower",
+            "Two bedrooms with double bed, closet and TV",
+            "Air conditioning and ceiling fan in all three bedrooms",
+            "Blinds and curtains"
+          ],
+          "Outdoors": [
+            "Covered garage for 4 cars with electric gate",
+            "Planter and potted plants",
+            "Fence with separate pedestrian gate"
+          ]
+        },
+        "condiciones": [
+          "Rent MXN $30,000 per month",
+          "Electricity billed separately",
+          "One month's deposit",
+          "Minimum one-year lease",
+          "Residential use; ideal for executives or company staff"
+        ],
+        "ubicacion_texto": "Barrio de San José is an established residential area on Luis Donaldo Colosio Avenue, one of the city's main avenues, between the Historic Center and the airport area. The Centro Médico de Campeche private hospital is a six-minute walk away and Bicentenario Park fifteen; by car, the IMSS hospital and the university are 5 minutes away, the seafront and the market 6, and the Historic Center 8."
+      }
     }
   ]
 }
