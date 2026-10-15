@@ -215,8 +215,8 @@
       "estacionamientos": 2,
       "antiguedad": "Construida en 2013 · 3 niveles",
       "estado": "disponible",
-      "etiqueta_estado": "Entrega en 15 días",
-      "nota_estado": "La casa está en venta y se entrega lista, tal como se describe, 15 días después de firmar el compromiso de compra. Mientras tanto, la puesta a punto avanza a ritmo normal; abajo, en «Avances», vamos publicando el antes y el después.",
+      "etiqueta_estado": "Entrega en 60 días",
+      "nota_estado": "La casa está en venta y se entrega lista, tal como se describe, 60 días después de firmar el compromiso de compra. Mientras tanto, la puesta a punto avanza a ritmo normal; abajo, en «Avances», vamos publicando el antes y el después.",
       "resumen": "Casa moderna en esquina dentro de fraccionamiento cerrado, a minutos del aeropuerto, el ADO y los hospitales. Tres recámaras, gimnasio, estudio, bar y patio superior. Sirve como residencia o como casa-oficina.",
       "descripcion": "Residencia de estilo moderno en lote de esquina con dos frentes, dentro del fraccionamiento Lomas de las Flores II, a una calle de la avenida Lázaro Cárdenas. Son tres niveles con 445 m² de construcción sobre 209 m² de terreno. En planta baja, recibidor, sala, comedor y cocina con isla y área de bar, cuarto de lavado, baño completo, cochera techada para dos autos y bodega. En el primer nivel, recámara principal con vestidor y baño con tina de hidromasaje, dos recámaras más, baño completo y cuarto de blancos. En el segundo nivel, gimnasio, estudio, baño completo y patio superior tipo lounge. Hidroneumático y cuarto de máquinas en azotea. Durante cuatro años fue casa de ejecutivos de una constructora nacional, lo que habla de su funcionalidad y ubicación. Se entrega semiamueblada.",
       "amenidades": [
@@ -266,7 +266,7 @@
       },
       "condiciones": [
         "Precio de venta $7,100,000 MXN",
-        "Entrega lista 15 días después de firmar el compromiso de compra",
+        "Entrega lista 60 días después de firmar el compromiso de compra",
         "Se vende semiamueblada (hay faltantes; la cocina está por terminarse)",
         "Escrituras y predial al corriente; se entrega libre de gravamen (la hipoteca vigente se liquida y cancela en el cierre, ante notario)",
         "Compradores extranjeros bienvenidos: la compra se formaliza mediante fideicomiso bancario; te ponemos en contacto con un notario que lo tramita"
@@ -373,8 +373,8 @@
         "titulo": "Three-story corner residence in Lomas de las Flores",
         "tipo": "house",
         "antiguedad": "Built in 2013 · 3 stories",
-        "etiqueta_estado": "Delivered in 15 days",
-        "nota_estado": "The house is for sale and is delivered ready, as described, 15 days after the purchase agreement is signed. Meanwhile the tune-up continues at a normal pace; see «Progress» below for before-and-after photos.",
+        "etiqueta_estado": "Delivered in 60 days",
+        "nota_estado": "The house is for sale and is delivered ready, as described, 60 days after the purchase agreement is signed. Meanwhile the tune-up continues at a normal pace; see «Progress» below for before-and-after photos.",
         "resumen": "Modern corner home in a gated community, minutes from the airport, the bus terminal and the hospitals. Three bedrooms, gym, study, bar and rooftop lounge. Works as a residence or as a home office.",
         "descripcion": "Modern-style residence on a corner lot with two street frontages, inside the gated community Lomas de las Flores II, one block from Lázaro Cárdenas Avenue. Three stories with 445 m² (4,790 sq ft) of construction on a 209 m² (2,250 sq ft) lot. Ground floor: foyer, living room, dining room and kitchen with island and bar area, laundry room, full bathroom, covered garage for two cars and storage room. First floor: master bedroom with walk-in closet and bathroom with whirlpool tub, two more bedrooms, a full bathroom and a linen room. Second floor: gym, study, full bathroom and a rooftop lounge terrace. Pressure water system and machine room on the roof. For four years it housed executives of a national construction company, which speaks to its functionality and location. Sold semi-furnished.",
         "amenidades": [
@@ -424,7 +424,7 @@
         },
         "condiciones": [
           "Asking price MXN $7,100,000",
-          "Delivered ready 15 days after the purchase agreement is signed",
+          "Delivered ready 60 days after the purchase agreement is signed",
           "Sold semi-furnished (some items missing; the kitchen is to be finished)",
           "Clear title at closing; property tax up to date. The current mortgage is paid off and the lien released at closing, before the notary",
           "Foreign buyers welcome: the purchase is formalized through a bank trust (fideicomiso); we can connect you with a notary who handles it"
