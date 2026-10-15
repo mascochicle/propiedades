@@ -143,7 +143,7 @@ function pintarFicha(d) {
   });
 }
 
-fetch(RUTA_DATOS).then((r) => r.json()).then((d) => {
+fetch(RUTA_DATOS + "?t=" + Date.now()).then((r) => r.json()).then((d) => {
   document.querySelectorAll("[data-marca]").forEach((el) => el.innerHTML = d.sitio.nombre.replace(/(\w+)$/, "<span>$1</span>"));
   if (document.getElementById("rejilla")) pintarCatalogo(d);
   if (document.getElementById("galeria")) pintarFicha(d);
