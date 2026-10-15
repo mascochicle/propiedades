@@ -224,6 +224,14 @@
           }
         },
         {
+          "nombre": "Chedraui Santa Ana (súper)",
+          "dato": "2.4 km · 8 min en auto",
+          "en": {
+            "nombre": "Chedraui Santa Ana (supermarket)",
+            "dato": "2.4 km · 8 min drive"
+          }
+        },
+        {
           "nombre": "IMSS Hospital General de Zona 1",
           "dato": "2.4 km · 10 min en auto",
           "en": {
