@@ -187,8 +187,13 @@
       "bitacora": [
         {
           "fecha": "2026-01-10",
-          "texto": "Arrancó la puesta a punto: revisión de baños, plomería e hidroneumático. Siguen pintura, acabados, electricidad, jardinería e impermeabilizado. Iremos subiendo fotos del antes y después.",
-          "fotos": []
+          "texto": "Arrancó la puesta a punto: revisión de baños (lavabos, mezcladoras y desagües), plomería e hidroneumático con su bomba. Siguen pintura, acabados, electricidad, jardinería e impermeabilizado. Estas son las fotos del «antes»; iremos subiendo el «después».",
+          "fotos": [
+            "img/casa-lomas/avances/2026-01-bano-lavabo.jpg",
+            "img/casa-lomas/avances/2026-01-bano-plomeria.jpg",
+            "img/casa-lomas/avances/2026-01-hidroneumatico.jpg",
+            "img/casa-lomas/avances/2026-01-bomba.jpg"
+          ]
         }
       ],
       "fotos": [
