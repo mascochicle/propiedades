@@ -1,0 +1,107 @@
+{
+  "propiedades": [
+    {
+      "clave": "casa-centro-historico",
+      "titulo": "Casa colonial en el Centro Histórico",
+      "operacion": "venta",
+      "tipo": "casa",
+      "precio": 4850000,
+      "moneda": "MXN",
+      "colonia": "Centro Histórico",
+      "ciudad": "Campeche",
+      "lat": 19.845,
+      "lng": -90.537,
+      "terreno_m2": 320,
+      "construccion_m2": 260,
+      "recamaras": 3,
+      "banos": 2.5,
+      "estacionamientos": 1,
+      "antiguedad": "Restaurada en 2021",
+      "resumen": "Fachada original, techos altos de rollizos y patio central con vegetación. A dos cuadras de la Plaza Principal.",
+      "descripcion": "Casona de una planta dentro del recinto amurallado, restaurada con respeto a la traza original: muros de mampostería, pisos de pasta y techos de rollizo recuperados. Tres recámaras amplias, dos baños y medio, cocina abierta hacia el patio central y un segundo patio al fondo con espacio para alberca. Ideal para vivienda o para operar como casa de huéspedes boutique.",
+      "amenidades": [
+        "Patio central",
+        "Techos de 5 m",
+        "Pisos de pasta originales",
+        "Cisterna",
+        "Aire acondicionado en recámaras",
+        "Uso de suelo mixto"
+      ],
+      "fotos": [
+        "https://images.unsplash.com/photo-1780093417522-30562f0b89ef?w=1600&q=80",
+        "https://images.unsplash.com/photo-1587541203297-e37ab236abfb?w=1600&q=80",
+        "https://images.unsplash.com/photo-1631064653398-fe1db29e1ca1?w=1600&q=80"
+      ],
+      "destacada": true
+    },
+    {
+      "clave": "depto-malecon",
+      "titulo": "Departamento con vista al malecón",
+      "operacion": "renta",
+      "tipo": "departamento",
+      "precio": 18500,
+      "moneda": "MXN",
+      "periodo": "mes",
+      "colonia": "San Román",
+      "ciudad": "Campeche",
+      "lat": 19.84,
+      "lng": -90.545,
+      "terreno_m2": null,
+      "construccion_m2": 95,
+      "recamaras": 2,
+      "banos": 2,
+      "estacionamientos": 1,
+      "antiguedad": "2019",
+      "resumen": "Dos recámaras, cocina integral y balcón hacia el mar. Amueblado, listo para habitarse.",
+      "descripcion": "Departamento en tercer nivel con elevador, orientado al poniente para ver el atardecer sobre el Golfo. Sala-comedor con balcón corrido, cocina integral con barra, dos recámaras con clóset y baño completo cada una. Se entrega amueblado y con minisplit en todas las áreas. Un cajón de estacionamiento techado y vigilancia 24 h.",
+      "amenidades": [
+        "Amueblado",
+        "Vista al mar",
+        "Elevador",
+        "Vigilancia 24 h",
+        "Minisplit en todas las áreas",
+        "Mascotas pequeñas"
+      ],
+      "fotos": [
+        "https://images.unsplash.com/photo-1613575831056-0acd5da8f085?w=1600&q=80",
+        "https://images.unsplash.com/photo-1665249934445-1de680641f50?w=1600&q=80",
+        "https://images.unsplash.com/photo-1628592102751-ba83b0314276?w=1600&q=80"
+      ],
+      "destacada": true
+    },
+    {
+      "clave": "casa-alberca-lomas",
+      "titulo": "Residencia con alberca en Lomas del Castillo",
+      "operacion": "venta",
+      "tipo": "casa",
+      "precio": 7200000,
+      "moneda": "MXN",
+      "colonia": "Lomas del Castillo",
+      "ciudad": "Campeche",
+      "lat": 19.829,
+      "lng": -90.511,
+      "terreno_m2": 450,
+      "construccion_m2": 380,
+      "recamaras": 4,
+      "banos": 3.5,
+      "estacionamientos": 2,
+      "antiguedad": "2017",
+      "resumen": "Cuatro recámaras, estudio, alberca y terraza techada. Privada con acceso controlado.",
+      "descripcion": "Casa de dos niveles en privada con caseta de vigilancia. Planta baja con sala, comedor, cocina con isla, estudio y medio baño; la terraza techada se abre a la alberca y al jardín. En planta alta, recámara principal con vestidor y baño, tres recámaras secundarias y un family room. Cochera techada para dos autos, cuarto de servicio y paneles solares.",
+      "amenidades": [
+        "Alberca",
+        "Terraza techada",
+        "Paneles solares",
+        "Cocina con isla",
+        "Cuarto de servicio",
+        "Privada con vigilancia"
+      ],
+      "fotos": [
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=1600&q=80",
+        "https://images.unsplash.com/photo-1613553507747-5f8d62ad5904?w=1600&q=80",
+        "https://images.unsplash.com/photo-1692736933760-8a8a9b8c1b6f?w=1600&q=80"
+      ],
+      "destacada": false
+    }
+  ]
+}

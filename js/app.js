@@ -70,6 +70,10 @@ function pintarFicha(d) {
   document.getElementById("datos").innerHTML = datosLinea(p, true) + (p.antiguedad ? `<span><b>${p.antiguedad}</b></span>` : "");
   document.getElementById("texto").textContent = p.descripcion;
   document.getElementById("amenidades").innerHTML = p.amenidades.map((a) => `<li>${a}</li>`).join("");
+  if (p.condiciones && p.condiciones.length) {
+    document.getElementById("condiciones").innerHTML = p.condiciones.map((c) => `<li>${c}</li>`).join("");
+    document.getElementById("bloque-condiciones").hidden = false;
+  }
   const msg = `Hola, me interesa "${p.titulo}" (${p.colonia}). ¿Podemos agendar una visita?`;
   document.getElementById("whats").href = linkWhats(d.sitio, msg);
   const correo = document.getElementById("correo");
