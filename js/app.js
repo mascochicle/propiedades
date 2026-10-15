@@ -70,6 +70,11 @@ function pintarFicha(d) {
   document.getElementById("datos").innerHTML = datosLinea(p, true) + (p.antiguedad ? `<span><b>${p.antiguedad}</b></span>` : "");
   document.getElementById("texto").textContent = p.descripcion;
   document.getElementById("amenidades").innerHTML = p.amenidades.map((a) => `<li>${a}</li>`).join("");
+  if (p.equipamiento && Object.keys(p.equipamiento).length) {
+    document.getElementById("equipamiento").innerHTML = Object.entries(p.equipamiento)
+      .map(([g, items]) => `<h3>${g}</h3><ul class="amenidades">${items.map((i) => `<li>${i}</li>`).join("")}</ul>`).join("");
+    document.getElementById("bloque-equipamiento").hidden = false;
+  }
   if (p.condiciones && p.condiciones.length) {
     document.getElementById("condiciones").innerHTML = p.condiciones.map((c) => `<li>${c}</li>`).join("");
     document.getElementById("bloque-condiciones").hidden = false;

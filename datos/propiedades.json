@@ -25,17 +25,19 @@
       "banos": 1.5,
       "estacionamientos": 1,
       "antiguedad": "Planta alta",
-      "resumen": "Una recámara con cama king y balcón, baño con tina y regadera, cocina integral y lavandería. Amueblado y equipado, listo para entrar.",
-      "descripcion": "Departamento en planta alta sobre la avenida Lázaro Cárdenas, en el fraccionamiento Valle del Sol. Sala-comedor con barra, cocina integral con refrigerador y microondas, y área de lavado con lavadora y secadora. La recámara tiene cama king size, clóset de madera, minisplit y balcón; el baño completo cuenta con tina y cabina de regadera independiente, y hay un medio baño para visitas. Se entrega amueblado y equipado, con internet. Pensado para una persona o pareja que trabaja en Campeche y quiere llegar a vivir sin comprar nada.",
+      "resumen": "Una recámara con cama king y balcón, baño con tina y regadera, cocina equipada con vajilla y electrodomésticos, lavadora y secadora. Amueblado, listo para entrar.",
+      "descripcion": "Departamento en planta alta sobre la avenida Lázaro Cárdenas, en el fraccionamiento Valle del Sol. Se entrega amueblado y completamente equipado: basta llegar con la maleta. El área de sala-comedor-cocina tiene minisplit y ventilador de techo; la cocina integral viene con estufa de gas con horno, campana, refrigerador, microondas, cafetera, licuadora, tostador, batería de cocina y vajilla completa, además de una isla con bancos y un desayunador de madera. La recámara tiene cama king size, cabecera, burós, clóset de madera, pantalla, minisplit y salida a un balcón privado. El baño completo cuenta con tina y cabina de regadera independiente, agua caliente con calentador y secadora de pelo; hay un medio baño para visitas y un área de lavado con centro de lavado (lavadora y secadora). Internet WiFi incluido. Pensado para una persona o pareja que trabaja en Campeche y quiere llegar a vivir sin comprar nada.",
       "amenidades": [
         "Amueblado y equipado",
         "Cama king size",
-        "Balcón en la recámara",
+        "Balcón privado en la recámara",
         "Tina y cabina de regadera",
-        "Minisplit",
-        "Cocina integral con refrigerador y microondas",
+        "Agua caliente (calentador)",
+        "2 minisplits (recámara y sala-comedor)",
+        "Cocina integral equipada con vajilla",
         "Lavadora y secadora",
         "Internet WiFi",
+        "Pantalla en la recámara",
         "Medio baño de visitas",
         "Estacionamiento en la calle, frente al depto"
       ],
@@ -62,7 +64,54 @@
         "img/depto-valle-del-sol/13-medio-bano.jpg",
         "img/depto-valle-del-sol/14-entrada.jpg"
       ],
-      "destacada": true
+      "destacada": true,
+      "equipamiento": {
+        "Sala y comedor": [
+          "Minisplit y ventilador de techo",
+          "Sala de ratán (sofá y dos sillones) con mesa de centro",
+          "Sofá-cama adicional",
+          "Desayunador de madera con 3 bancos",
+          "Isla con 4 bancos altos",
+          "Librero-vitrina y cava para vinos con copas",
+          "Espejos, cuadros, tapete y lámparas",
+          "Cortinas en todas las ventanas"
+        ],
+        "Cocina": [
+          "Estufa de gas 4 quemadores con horno y campana",
+          "Refrigerador",
+          "Horno de microondas",
+          "Cafetera de goteo y cafetera de cápsulas",
+          "Licuadora, tostador y hervidor eléctrico",
+          "Batería de cocina (ollas y sartenes)",
+          "Vajilla, vasos, tazas y cubiertos completos",
+          "Alacenas con puertas de vidrio y tarja"
+        ],
+        "Recámara": [
+          "Cama king size con cabecera",
+          "Dos burós con lámparas",
+          "Clóset de madera",
+          "Pantalla plana",
+          "Repisas y banca de madera",
+          "Minisplit",
+          "Puerta corrediza al balcón, con cortinas"
+        ],
+        "Baños": [
+          "Baño completo con tina y cabina de regadera independiente",
+          "Calentador de agua",
+          "Lavabo con mueble y espejo grande",
+          "Secadora de pelo",
+          "Medio baño de visitas"
+        ],
+        "Lavandería": [
+          "Centro de lavado Mabe: lavadora y secadora",
+          "Tendedero plegable"
+        ],
+        "Servicios": [
+          "Internet WiFi",
+          "Agua y mantenimiento incluidos",
+          "Caja de seguridad para llaves en la entrada"
+        ]
+      }
     }
   ]
 }

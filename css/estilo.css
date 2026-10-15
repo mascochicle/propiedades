@@ -133,6 +133,7 @@ p { margin: 0 0 1em; }
 .ficha .texto { font-size: 1.05rem; line-height: 1.75; }
 .ficha h2 { font-size: 1.6rem; margin: 40px 0 16px; }
 .amenidades { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 10px 24px; }
+#equipamiento h3 { font-size: 1.15rem; color: var(--bronce-oscuro); margin: 22px 0 10px; }
 .amenidades li::before { content: "— "; color: var(--bronce); }
 .lateral { position: sticky; top: 96px; align-self: start; }
 .caja { background: var(--huevo); padding: 32px; }
