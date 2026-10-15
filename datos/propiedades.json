@@ -194,8 +194,92 @@
             "Water and maintenance included",
             "Key safe at the entrance"
           ]
+        },
+        "ubicacion_texto": "Valle del Sol is an established residential neighborhood on Lázaro Cárdenas Avenue, one of the city's main arteries, with shops and services along the avenue itself. From the apartment everything is under 15 minutes by car: the hospital district (Specialty Hospital and Oncology Center) in 6 minutes, the bus terminal in 8, the airport in 11, and the Historic Center, the seafront promenade and the shopping malls in 13 to 14."
+      },
+      "ubicacion_texto": "Valle del Sol es un fraccionamiento habitacional consolidado sobre la avenida Lázaro Cárdenas, una de las vías principales de la ciudad, con comercios y servicios sobre la misma avenida. Desde el departamento todo queda a menos de 15 minutos en auto: la zona hospitalaria (Hospital de Especialidades y Centro de Oncología) a 6 minutos, la central de autobuses a 8, el aeropuerto a 11 y el Centro Histórico, el malecón y los centros comerciales entre 13 y 14.",
+      "cercanias": [
+        {
+          "nombre": "Centro Estatal de Oncología",
+          "dato": "1.8 km · 6 min en auto",
+          "en": {
+            "nombre": "State Oncology Center",
+            "dato": "1.8 km · 6 min drive"
+          }
+        },
+        {
+          "nombre": "Hospital General de Especialidades «Dr. Javier Buenfil Osorio»",
+          "dato": "2.0 km · 6 min en auto",
+          "en": {
+            "nombre": "General Specialty Hospital «Dr. Javier Buenfil Osorio»",
+            "dato": "2.0 km · 6 min drive"
+          }
+        },
+        {
+          "nombre": "Central de autobuses ADO",
+          "dato": "2.4 km · 8 min en auto",
+          "en": {
+            "nombre": "ADO bus terminal",
+            "dato": "2.4 km · 8 min drive"
+          }
+        },
+        {
+          "nombre": "IMSS Hospital General de Zona 1",
+          "dato": "2.4 km · 10 min en auto",
+          "en": {
+            "nombre": "IMSS General Hospital Zone 1",
+            "dato": "2.4 km · 10 min drive"
+          }
+        },
+        {
+          "nombre": "Aeropuerto Internacional de Campeche",
+          "dato": "4.5 km · 11 min en auto",
+          "en": {
+            "nombre": "Campeche International Airport",
+            "dato": "4.5 km · 11 min drive"
+          }
+        },
+        {
+          "nombre": "Universidad Autónoma de Campeche",
+          "dato": "4.3 km · 12 min en auto",
+          "en": {
+            "nombre": "Autonomous University of Campeche",
+            "dato": "4.3 km · 12 min drive"
+          }
+        },
+        {
+          "nombre": "Centro Histórico (Plaza de la Independencia)",
+          "dato": "3.4 km · 13 min en auto",
+          "en": {
+            "nombre": "Historic Center (Independence Plaza)",
+            "dato": "3.4 km · 13 min drive"
+          }
+        },
+        {
+          "nombre": "Sam's Club y Walmart (Área Ah-Kim-Pech)",
+          "dato": "3.7 km · 13 min en auto",
+          "en": {
+            "nombre": "Sam's Club and Walmart (Ah-Kim-Pech area)",
+            "dato": "3.7 km · 13 min drive"
+          }
+        },
+        {
+          "nombre": "Malecón",
+          "dato": "5.0 km · 13 min en auto",
+          "en": {
+            "nombre": "Seafront promenade (Malecón)",
+            "dato": "5.0 km · 13 min drive"
+          }
+        },
+        {
+          "nombre": "Galerías Campeche",
+          "dato": "4.8 km · 14 min en auto",
+          "en": {
+            "nombre": "Galerías Campeche shopping mall",
+            "dato": "4.8 km · 14 min drive"
+          }
         }
-      }
+      ]
     },
     {
       "clave": "casa-lomas",
