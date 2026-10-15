@@ -2,6 +2,7 @@
 const RUTA_DATOS = "datos/propiedades.json";
 
 const fmtPrecio = (p) => {
+  if (p.precio == null) return `<small>Precio por definir</small>`;
   const n = new Intl.NumberFormat("es-MX", { style: "currency", currency: p.moneda || "MXN", maximumFractionDigits: 0 }).format(p.precio);
   return p.operacion === "renta" ? `${n} <small>/ ${p.periodo || "mes"}</small>` : n;
 };

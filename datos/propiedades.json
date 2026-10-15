@@ -114,6 +114,92 @@
       },
       "estado": "rentada",
       "disponible_desde": null
+    },
+    {
+      "clave": "casa-lomas",
+      "titulo": "Residencia de tres niveles en esquina, Lomas de las Flores",
+      "operacion": "venta",
+      "tipo": "casa",
+      "precio": null,
+      "moneda": "MXN",
+      "colonia": "Lomas de las Flores II",
+      "ciudad": "Campeche",
+      "lat": 19.8174,
+      "lng": -90.5224,
+      "terreno_m2": 209,
+      "construccion_m2": 445,
+      "recamaras": 3,
+      "banos": 4,
+      "estacionamientos": 2,
+      "antiguedad": "Construida en 2013 · 3 niveles",
+      "estado": "en_preparacion",
+      "nota_estado": "La casa está en mantenimiento (baños, pintura, acabados, plomería, electricidad, jardín e impermeabilizado) antes de salir a la venta. Si te interesa, escríbenos y te avisamos primero; mientras, aquí iremos publicando los avances.",
+      "resumen": "Casa moderna en esquina con tres recámaras, gimnasio, estudio, bar y patio superior. Rentada cuatro años a una constructora; ahora se pone a punto para venta.",
+      "descripcion": "Residencia de estilo moderno en lote de esquina con dos frentes, dentro del fraccionamiento Lomas de las Flores II, a una calle de la avenida Lázaro Cárdenas. Son tres niveles con 445 m² de construcción sobre 209 m² de terreno. En planta baja, recibidor, sala, comedor y cocina con isla y área de bar, cuarto de lavado, baño completo, cochera techada para dos autos y bodega. En el primer nivel, recámara principal con vestidor y baño con tina de hidromasaje, dos recámaras más, baño completo y cuarto de blancos. En el segundo nivel, gimnasio, estudio, baño completo y patio superior tipo lounge. Hidroneumático y cuarto de máquinas en azotea. Durante cuatro años fue casa de ejecutivos de una constructora nacional, lo que habla de su funcionalidad y ubicación. Se entrega semiamueblada.",
+      "amenidades": [
+        "Esquina con dos frentes",
+        "3 niveles · 445 m² de construcción",
+        "Recámara principal con vestidor",
+        "Tina de hidromasaje",
+        "Gimnasio y estudio",
+        "Patio superior tipo lounge",
+        "Área de bar con barra de cantera",
+        "Cochera techada para 2 autos",
+        "Hidroneumático",
+        "Semiamueblada"
+      ],
+      "equipamiento": {
+        "Planta baja": [
+          "Recibidor con A/C",
+          "Sala",
+          "Comedor para 12",
+          "Cocina con isla y estufa de 5 quemadores, campana",
+          "Área de bar con barra de madera y cantera",
+          "Cuarto de lavado con lavadora y secadora",
+          "Baño completo",
+          "Cochera techada para 2 autos y bodega"
+        ],
+        "Primer nivel": [
+          "Recámara principal king con librero empotrado y vestidor (walk-in closet)",
+          "Baño principal con doble lavabo, regadera y tina de hidromasaje",
+          "Dos recámaras secundarias",
+          "Baño completo compartido",
+          "Cuarto de blancos"
+        ],
+        "Segundo nivel": [
+          "Gimnasio con piso de goma",
+          "Estudio",
+          "Baño completo",
+          "Patio superior tipo lounge"
+        ],
+        "Instalaciones": [
+          "Hidroneumático y cuarto de máquinas en azotea",
+          "Minisplits",
+          "Pisos de porcelanato en áreas comunes y duela laminada en recámaras",
+          "Puerta principal de caoba maciza"
+        ]
+      },
+      "condiciones": [
+        "Precio por definir al terminar el mantenimiento",
+        "Se vende semiamueblada (hay faltantes; la cocina está por terminarse)",
+        "Escrituras y predial al corriente"
+      ],
+      "bitacora": [
+        {
+          "fecha": "2026-01-10",
+          "texto": "Arrancó la puesta a punto: revisión de baños, plomería e hidroneumático. Siguen pintura, acabados, electricidad, jardinería e impermeabilizado. Iremos subiendo fotos del antes y después.",
+          "fotos": []
+        }
+      ],
+      "fotos": [
+        "img/casa-lomas/01-esquina.jpg",
+        "img/casa-lomas/02-cochera.jpg",
+        "img/casa-lomas/03-entrada.jpg",
+        "img/casa-lomas/04-calle.jpg",
+        "img/casa-lomas/05-fachada-lateral.jpg",
+        "img/casa-lomas/06-porche.jpg"
+      ],
+      "destacada": false
     }
   ]
 }
