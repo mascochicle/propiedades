@@ -530,7 +530,7 @@
       "titulo": "Casa amueblada de dos recámaras en San Antonio",
       "operacion": "renta",
       "tipo": "casa",
-      "precio": 15000,
+      "precio": 17000,
       "moneda": "MXN",
       "periodo": "mes",
       "colonia": "San Antonio",
@@ -595,7 +595,7 @@
         ]
       },
       "condiciones": [
-        "Renta $15,000 al mes; incluye agua, internet básico y jardinería",
+        "Renta $17,000 al mes; incluye agua, internet básico y jardinería",
         "Luz por separado",
         "Depósito de un mes",
         "Contrato mínimo de un año",
@@ -772,7 +772,7 @@
           ]
         },
         "condiciones": [
-          "Rent MXN $15,000 per month; includes water, basic internet and gardening",
+          "Rent MXN $17,000 per month; includes water, basic internet and gardening",
           "Electricity billed separately",
           "One month's deposit",
           "Minimum one-year lease",
