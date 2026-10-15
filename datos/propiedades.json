@@ -120,7 +120,7 @@
       "titulo": "Residencia de tres niveles en esquina, Lomas de las Flores",
       "operacion": "venta",
       "tipo": "casa",
-      "precio": null,
+      "precio": 7100000,
       "moneda": "MXN",
       "colonia": "Lomas de las Flores II",
       "ciudad": "Campeche",
@@ -180,7 +180,7 @@
         ]
       },
       "condiciones": [
-        "Precio por definir al terminar el mantenimiento",
+        "Precio de venta $7,100,000",
         "Se vende semiamueblada (hay faltantes; la cocina está por terminarse)",
         "Escrituras y predial al corriente"
       ],
