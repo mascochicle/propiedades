@@ -53,7 +53,9 @@ function pintarCatalogo(d) {
   const hero = document.getElementById("portada-img");
   if (hero && destacada) hero.src = destacada.fotos[0];
   document.querySelectorAll("[data-whats]").forEach((a) => a.href = linkWhats(d.sitio, "Hola, me interesa información sobre sus propiedades."));
-  document.querySelectorAll("[data-correo]").forEach((a) => a.href = `mailto:${d.sitio.correo}`);
+  document.querySelectorAll("[data-correo]").forEach((a) => {
+    if (d.sitio.correo) a.href = `mailto:${d.sitio.correo}`; else a.remove();
+  });
 }
 
 function pintarFicha(d) {
@@ -70,7 +72,8 @@ function pintarFicha(d) {
   document.getElementById("amenidades").innerHTML = p.amenidades.map((a) => `<li>${a}</li>`).join("");
   const msg = `Hola, me interesa "${p.titulo}" (${p.colonia}). ¿Podemos agendar una visita?`;
   document.getElementById("whats").href = linkWhats(d.sitio, msg);
-  document.getElementById("correo").href = `mailto:${d.sitio.correo}?subject=${encodeURIComponent(p.titulo)}`;
+  const correo = document.getElementById("correo");
+  if (d.sitio.correo) correo.href = `mailto:${d.sitio.correo}?subject=${encodeURIComponent(p.titulo)}`; else correo.remove();
 
   // Mapa (Leaflet + OpenStreetMap, sin llave). Círculo en vez de pin exacto: la dirección se da en la visita.
   if (window.L && p.lat) {
