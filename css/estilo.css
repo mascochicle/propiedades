@@ -143,6 +143,10 @@ p { margin: 0 0 1em; }
 .ficha .texto { font-size: 1.05rem; line-height: 1.75; }
 .ficha h2 { font-size: 1.6rem; margin: 40px 0 16px; }
 .amenidades { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 10px 24px; }
+/* Lista de cercanías: nombre a la izquierda, distancia/tiempo a la derecha */
+.cercanias { list-style: none; padding: 0; margin: 0 0 28px; }
+.cercanias li { display: flex; justify-content: space-between; gap: 16px; padding: 10px 0; border-bottom: 1px solid var(--manta); font-size: .95rem; }
+.cercanias b { font-weight: 500; color: var(--bronce-oscuro); white-space: nowrap; }
 #equipamiento h3 { font-size: 1.15rem; color: var(--bronce-oscuro); margin: 22px 0 10px; }
 .amenidades li::before { content: "— "; color: var(--bronce); }
 .lateral { position: sticky; top: 96px; align-self: start; }

@@ -134,19 +134,21 @@
       "antiguedad": "Construida en 2013 · 3 niveles",
       "estado": "en_preparacion",
       "nota_estado": "La casa está en mantenimiento (baños, pintura, acabados, plomería, electricidad, jardín e impermeabilizado) antes de salir a la venta. Si te interesa, escríbenos y te avisamos primero; mientras, aquí iremos publicando los avances.",
-      "resumen": "Casa moderna en esquina con tres recámaras, gimnasio, estudio, bar y patio superior. Rentada cuatro años a una constructora; ahora se pone a punto para venta.",
+      "resumen": "Casa moderna en esquina dentro de fraccionamiento cerrado, a minutos del aeropuerto, el ADO y los hospitales. Tres recámaras, gimnasio, estudio, bar y patio superior. Sirve como residencia o como casa-oficina.",
       "descripcion": "Residencia de estilo moderno en lote de esquina con dos frentes, dentro del fraccionamiento Lomas de las Flores II, a una calle de la avenida Lázaro Cárdenas. Son tres niveles con 445 m² de construcción sobre 209 m² de terreno. En planta baja, recibidor, sala, comedor y cocina con isla y área de bar, cuarto de lavado, baño completo, cochera techada para dos autos y bodega. En el primer nivel, recámara principal con vestidor y baño con tina de hidromasaje, dos recámaras más, baño completo y cuarto de blancos. En el segundo nivel, gimnasio, estudio, baño completo y patio superior tipo lounge. Hidroneumático y cuarto de máquinas en azotea. Durante cuatro años fue casa de ejecutivos de una constructora nacional, lo que habla de su funcionalidad y ubicación. Se entrega semiamueblada.",
       "amenidades": [
+        "Fraccionamiento cerrado con casetas de vigilancia",
         "Esquina con dos frentes",
         "3 niveles · 445 m² de construcción",
+        "A 7 min del aeropuerto y 6 min del ADO",
+        "Hospitales de Especialidades y Oncología a pie",
         "Recámara principal con vestidor",
         "Tina de hidromasaje",
         "Gimnasio y estudio",
         "Patio superior tipo lounge",
         "Área de bar con barra de cantera",
         "Cochera techada para 2 autos",
-        "Hidroneumático",
-        "Semiamueblada"
+        "Apta para casa, casa-oficina u oficinas"
       ],
       "equipamiento": {
         "Planta baja": [
@@ -204,7 +206,47 @@
         "img/casa-lomas/05-fachada-lateral.jpg",
         "img/casa-lomas/06-porche.jpg"
       ],
-      "destacada": false
+      "destacada": false,
+      "ubicacion_texto": "Lomas de las Flores II es un fraccionamiento residencial cerrado, con casetas de vigilancia, a una calle de la avenida Lázaro Cárdenas. La casa queda a cinco minutos del aeropuerto y de la central de autobuses, y a unos pasos de la red hospitalaria de la ciudad: el Hospital General de Especialidades y el Centro Estatal de Oncología están a menos de un kilómetro, caminando.",
+      "cercanias": [
+        {
+          "nombre": "Hospital General de Especialidades «Dr. Javier Buenfil Osorio»",
+          "dato": "500 m · 8 min a pie"
+        },
+        {
+          "nombre": "Centro Estatal de Oncología",
+          "dato": "700 m · 10 min a pie"
+        },
+        {
+          "nombre": "Central de autobuses ADO",
+          "dato": "2.4 km · 6 min en auto"
+        },
+        {
+          "nombre": "Aeropuerto Internacional de Campeche",
+          "dato": "3.1 km · 7 min en auto"
+        },
+        {
+          "nombre": "Universidad Autónoma de Campeche",
+          "dato": "4.9 km · 11 min en auto"
+        },
+        {
+          "nombre": "IMSS Hospital General de Zona 1",
+          "dato": "4.9 km · 13 min en auto"
+        },
+        {
+          "nombre": "Centro Histórico (Plaza de la Independencia)",
+          "dato": "5–6 km · 15 min en auto"
+        },
+        {
+          "nombre": "Malecón",
+          "dato": "7.6 km · 15 min en auto"
+        },
+        {
+          "nombre": "Galerías Campeche",
+          "dato": "6.5 km · 17 min en auto"
+        }
+      ],
+      "usos_texto": "Por su tamaño (445 m² en tres niveles, cuatro baños, cochera para dos autos y dos frentes en esquina) y su estructura de concreto armado, la casa admite más de un uso: residencia familiar, casa con despacho en planta baja, u oficinas corporativas con adecuaciones. Ya funcionó cuatro años como casa de ejecutivos de una constructora nacional."
     }
   ]
 }

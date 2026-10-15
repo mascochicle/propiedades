@@ -93,6 +93,18 @@ function pintarFicha(d) {
       .map(([g, items]) => `<h3>${g}</h3><ul class="amenidades">${items.map((i) => `<li>${i}</li>`).join("")}</ul>`).join("");
     document.getElementById("bloque-equipamiento").hidden = false;
   }
+  if (p.usos_texto) {
+    document.getElementById("usos").textContent = p.usos_texto;
+    document.getElementById("bloque-usos").hidden = false;
+  }
+  if (p.ubicacion_texto) {
+    const u = document.getElementById("ubicacion-texto"); u.textContent = p.ubicacion_texto; u.hidden = false;
+  }
+  if (p.cercanias && p.cercanias.length) {
+    const c = document.getElementById("cercanias");
+    c.innerHTML = p.cercanias.map((k) => `<li><span>${k.nombre}</span><b>${k.dato}</b></li>`).join("");
+    c.hidden = false;
+  }
   if (p.condiciones && p.condiciones.length) {
     document.getElementById("condiciones").innerHTML = p.condiciones.map((c) => `<li>${c}</li>`).join("");
     document.getElementById("bloque-condiciones").hidden = false;
