@@ -111,7 +111,9 @@
           "Agua y mantenimiento incluidos",
           "Caja de seguridad para llaves en la entrada"
         ]
-      }
+      },
+      "estado": "rentada",
+      "disponible_desde": null
     }
   ]
 }
