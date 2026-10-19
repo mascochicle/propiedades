@@ -134,9 +134,12 @@ p { margin: 0 0 1em; }
 
 /* Ficha de propiedad */
 /* min-height/min-width 0: sin eso las fotos no se encogen al tamaño de la celda y se encimaban al título. */
-.ficha-portada { display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: 1fr 1fr; gap: 6px; height: 68vh; min-height: 420px; max-height: 720px; background: var(--manta); overflow: hidden; }
+.ficha-portada { position: relative; display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: 1fr 1fr; gap: 6px; height: 68vh; min-height: 420px; max-height: 720px; background: var(--manta); overflow: hidden; }
 .ficha-portada img { width: 100%; height: 100%; min-height: 0; min-width: 0; object-fit: cover; cursor: pointer; }
 .ficha-portada img:first-child { grid-row: 1 / 3; }
+/* Botón sobre la portada para abrir el visor con todas las fotos */
+.ficha-portada .ver-fotos { position: absolute; right: 16px; bottom: 16px; padding: 10px 16px; font: 500 .8rem/1 var(--sans); letter-spacing: .06em; text-transform: uppercase; color: var(--carbon); background: rgba(255,255,255,.92); border: 1px solid var(--manta); border-radius: 4px; cursor: pointer; }
+.ficha-portada .ver-fotos:hover { background: #fff; }
 .ficha { display: grid; grid-template-columns: 1.6fr 1fr; gap: 64px; padding: 56px 0 96px; }
 .ficha header h1 { font-size: clamp(2rem, 4vw, 3rem); margin: 10px 0 14px; }
 .ficha .lugar { color: var(--piedra); }

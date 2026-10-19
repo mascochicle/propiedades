@@ -46,6 +46,7 @@ const T = {
     "wa.general": "Hola, me interesa información sobre sus propiedades.",
     "wa.avisar": (t, c) => `Hola, me interesa "${t}" (${c}). ¿Me avisan cuando esté disponible?`,
     "wa.visita": (t, c) => `Hola, me interesa "${t}" (${c}). ¿Podemos agendar una visita?`,
+    "fotos.todas": (n) => `Ver las ${n} fotos`,
     "idioma": "EN",
   },
   en: {
@@ -81,6 +82,7 @@ const T = {
     "wa.general": "Hello, I'd like information about your properties.",
     "wa.avisar": (t, c) => `Hello, I'm interested in "${t}" (${c}). Can you let me know when it becomes available?`,
     "wa.visita": (t, c) => `Hello, I'm interested in "${t}" (${c}). Can we schedule a visit?`,
+    "fotos.todas": (n) => `See all ${n} photos`,
     "idioma": "ES",
   },
 };
@@ -193,7 +195,8 @@ function pintarFicha(d) {
   const p = d.propiedades.find((x) => x.clave === clave) || d.propiedades[0];
   const titulo = tr(p, "titulo");
   document.title = `${titulo} · ${d.sitio.nombre}`;
-  document.getElementById("galeria").innerHTML = p.fotos.slice(0, 3).map((f, i) => `<img src="${f}" alt="${titulo} ${i + 1}" data-i="${i}">`).join("");
+  document.getElementById("galeria").innerHTML = p.fotos.slice(0, 3).map((f, i) => `<img src="${f}" alt="${titulo} ${i + 1}" data-i="${i}">`).join("")
+    + (p.fotos.length > 3 ? `<button type="button" class="ver-fotos" data-i="0">${t("fotos.todas", p.fotos.length)}</button>` : "");
   document.getElementById("ojo").textContent = EN ? `${cap(tr(p, "tipo"))} ${t("en_" + p.operacion)}` : `${cap(p.tipo)} ${t("en_" + p.operacion)}`;
   document.getElementById("titulo").textContent = titulo;
   document.getElementById("lugar").textContent = `${p.colonia} · ${p.ciudad}`;
@@ -261,7 +264,7 @@ function pintarFicha(d) {
   const vimg = visor.querySelector("img");
   let i = 0;
   const mostrar = (k) => { i = (k + p.fotos.length) % p.fotos.length; vimg.src = p.fotos[i]; visor.classList.add("abierto"); };
-  document.querySelectorAll("#galeria img").forEach((img) => img.addEventListener("click", () => mostrar(+img.dataset.i)));
+  document.querySelectorAll("#galeria img, #galeria .ver-fotos").forEach((el) => el.addEventListener("click", () => mostrar(+el.dataset.i)));
   visor.querySelector(".cerrar").onclick = () => visor.classList.remove("abierto");
   visor.querySelector(".ant").onclick = () => mostrar(i - 1);
   visor.querySelector(".sig").onclick = () => mostrar(i + 1);
