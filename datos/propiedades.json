@@ -310,7 +310,7 @@
       "etiqueta_estado": "Entrega en 60 días",
       "nota_estado": "La casa está en venta y se entrega lista, tal como se describe, 60 días después de firmar el compromiso de compra. Mientras tanto, la puesta a punto avanza a ritmo normal; abajo, en «Avances», vamos publicando el antes y el después.",
       "resumen": "Casa moderna en esquina dentro de fraccionamiento cerrado, a minutos del aeropuerto, el ADO y los hospitales. Tres recámaras, gimnasio, estudio, bar y patio superior. Sirve como residencia o como casa-oficina.",
-      "descripcion": "Residencia de estilo moderno en lote de esquina con dos frentes, dentro del fraccionamiento Lomas de las Flores II, a una calle de la avenida Lázaro Cárdenas. Son tres niveles con 445 m² de construcción sobre 209 m² de terreno. En planta baja, recibidor, sala, comedor y cocina con isla y área de bar, cuarto de lavado, baño completo, cochera techada para dos autos y bodega. En el primer nivel, recámara principal con vestidor y baño con tina de hidromasaje, dos recámaras más, baño completo y cuarto de blancos. En el segundo nivel, gimnasio, estudio, baño completo y patio superior tipo lounge. Hidroneumático y cuarto de máquinas en azotea. Durante cuatro años fue casa de ejecutivos de una constructora nacional, lo que habla de su funcionalidad y ubicación. Se entrega semiamueblada.",
+      "descripcion": "Residencia de estilo moderno en lote de esquina con dos frentes, dentro del fraccionamiento Lomas de las Flores II, a una calle de la avenida Lázaro Cárdenas. Son tres niveles con 445 m² de construcción sobre 209 m² de terreno. En planta baja, recibidor, sala, comedor y cocina con isla y área de bar, cuarto de lavado, baño completo, cochera techada para dos autos y bodega. En el primer nivel, recámara principal con vestidor y baño con tina de hidromasaje, dos recámaras más, baño completo y cuarto de blancos. En el segundo nivel, una planta abierta con gimnasio, área de estudio y baño completo, que puede convertirse en una cuarta recámara o suite de huéspedes, más el patio superior tipo lounge. Hidroneumático y cuarto de máquinas en azotea. Durante cuatro años fue casa de ejecutivos de una constructora nacional, lo que habla de su funcionalidad y ubicación. Se entrega semiamueblada.",
       "amenidades": [
         "Fraccionamiento cerrado con casetas de vigilancia",
         "Esquina con dos frentes",
@@ -319,7 +319,7 @@
         "Hospitales de Especialidades y Oncología a pie",
         "Recámara principal con vestidor",
         "Tina de hidromasaje",
-        "Gimnasio y estudio",
+        "Gimnasio y estudio (o cuarta recámara)",
         "Patio superior tipo lounge",
         "Área de bar con barra de cantera",
         "Cochera techada para 2 autos",
@@ -344,8 +344,8 @@
           "Cuarto de blancos"
         ],
         "Segundo nivel": [
-          "Gimnasio con piso de goma",
-          "Estudio",
+          "Planta abierta: gimnasio con piso de goma y área de estudio",
+          "Puede ser una cuarta recámara o suite de huéspedes",
           "Baño completo",
           "Patio superior tipo lounge"
         ],
@@ -488,7 +488,7 @@
         "etiqueta_estado": "Delivered in 60 days",
         "nota_estado": "The house is for sale and is delivered ready, as described, 60 days after the purchase agreement is signed. Meanwhile the tune-up continues at a normal pace; see «Progress» below for before-and-after photos.",
         "resumen": "Modern corner home in a gated community, minutes from the airport, the bus terminal and the hospitals. Three bedrooms, gym, study, bar and rooftop lounge. Works as a residence or as a home office.",
-        "descripcion": "Modern-style residence on a corner lot with two street frontages, inside the gated community Lomas de las Flores II, one block from Lázaro Cárdenas Avenue. Three stories with 445 m² (4,790 sq ft) of construction on a 209 m² (2,250 sq ft) lot. Ground floor: foyer, living room, dining room and kitchen with island and bar area, laundry room, full bathroom, covered garage for two cars and storage room. First floor: master bedroom with walk-in closet and bathroom with whirlpool tub, two more bedrooms, a full bathroom and a linen room. Second floor: gym, study, full bathroom and a rooftop lounge terrace. Pressure water system and machine room on the roof. For four years it housed executives of a national construction company, which speaks to its functionality and location. Sold semi-furnished.",
+        "descripcion": "Modern-style residence on a corner lot with two street frontages, inside the gated community Lomas de las Flores II, one block from Lázaro Cárdenas Avenue. Three stories with 445 m² (4,790 sq ft) of construction on a 209 m² (2,250 sq ft) lot. Ground floor: foyer, living room, dining room and kitchen with island and bar area, laundry room, full bathroom, covered garage for two cars and storage room. First floor: master bedroom with walk-in closet and bathroom with whirlpool tub, two more bedrooms, a full bathroom and a linen room. Second floor: an open-plan level with gym, study area and full bathroom, easily converted into a fourth bedroom or guest suite, plus a rooftop lounge terrace. Pressure water system and machine room on the roof. For four years it housed executives of a national construction company, which speaks to its functionality and location. Sold semi-furnished.",
         "amenidades": [
           "Gated community with guard houses",
           "Corner lot with two frontages",
@@ -497,7 +497,7 @@
           "Specialty and Oncology hospitals within walking distance",
           "Master bedroom with walk-in closet",
           "Whirlpool tub",
-          "Gym and study",
+          "Gym and study (or fourth bedroom)",
           "Rooftop lounge terrace",
           "Bar area with cantera-stone counter",
           "Covered garage for 2 cars",
@@ -522,8 +522,8 @@
             "Linen room"
           ],
           "Second floor": [
-            "Gym with rubber flooring",
-            "Study",
+            "Open-plan level: gym with rubber flooring and study area",
+            "Can be a fourth bedroom or guest suite",
             "Full bathroom",
             "Rooftop lounge terrace"
           ],
