@@ -303,14 +303,14 @@
       "terreno_m2": 209,
       "construccion_m2": 445,
       "recamaras": 3,
-      "banos": 4,
+      "banos": 5,
       "estacionamientos": 2,
       "antiguedad": "Construida en 2013 · 3 niveles",
       "estado": "disponible",
       "etiqueta_estado": "Entrega en 60 días",
       "nota_estado": "La casa está en venta y se entrega lista, tal como se describe, 60 días después de firmar el compromiso de compra. Mientras tanto, la puesta a punto avanza a ritmo normal; abajo, en «Avances», vamos publicando el antes y el después.",
       "resumen": "Casa moderna en esquina dentro de fraccionamiento cerrado, a minutos del aeropuerto, el ADO y los hospitales. Tres recámaras, gimnasio, estudio, bar y patio superior. Sirve como residencia o como casa-oficina.",
-      "descripcion": "Residencia de estilo moderno en lote de esquina con dos frentes, dentro del fraccionamiento Lomas de las Flores II, a una calle de la avenida Lázaro Cárdenas. Son tres niveles con 445 m² de construcción sobre 209 m² de terreno. En planta baja, recibidor, sala, comedor y cocina con isla y área de bar, cuarto de lavado, baño completo, cochera techada para dos autos y bodega. En el primer nivel, recámara principal con vestidor y baño con tina de hidromasaje, dos recámaras más, baño completo y cuarto de blancos. En el segundo nivel, una planta abierta con gimnasio, área de estudio y baño completo, que puede convertirse en una cuarta recámara o suite de huéspedes, más el patio superior tipo lounge. Hidroneumático y cuarto de máquinas en azotea. Durante cuatro años fue casa de ejecutivos de una constructora nacional, lo que habla de su funcionalidad y ubicación. Se entrega semiamueblada.",
+      "descripcion": "Residencia de estilo moderno en lote de esquina con dos frentes, dentro del fraccionamiento Lomas de las Flores II, a una calle de la avenida Lázaro Cárdenas. Son tres niveles con 445 m² de construcción sobre 209 m² de terreno. En planta baja, recibidor, sala, comedor y cocina con isla y área de bar, cuarto de lavado, dos baños completos, cochera techada para dos autos y bodega. En el primer nivel, recámara principal con vestidor y baño con tina de hidromasaje, dos recámaras más, baño completo y cuarto de blancos. En el segundo nivel, una planta abierta con gimnasio, área de estudio y baño completo, que puede convertirse en una cuarta recámara o suite de huéspedes, más el patio superior tipo lounge. Hidroneumático y cuarto de máquinas en azotea. Durante cuatro años fue casa de ejecutivos de una constructora nacional, lo que habla de su funcionalidad y ubicación. Se entrega semiamueblada.",
       "amenidades": [
         "Fraccionamiento cerrado con casetas de vigilancia",
         "Esquina con dos frentes",
@@ -333,7 +333,7 @@
           "Cocina con isla y estufa de 5 quemadores, campana",
           "Área de bar con barra de madera y cantera",
           "Cuarto de lavado con lavadora y secadora",
-          "Baño completo",
+          "Dos baños completos",
           "Cochera techada para 2 autos y bodega"
         ],
         "Primer nivel": [
@@ -480,7 +480,7 @@
           }
         }
       ],
-      "usos_texto": "Por su tamaño (445 m² en tres niveles, cuatro baños, cochera para dos autos y dos frentes en esquina) y su estructura de concreto armado, la casa admite más de un uso: residencia familiar, casa con despacho en planta baja, u oficinas corporativas con adecuaciones. Ya funcionó cuatro años como casa de ejecutivos de una constructora nacional.",
+      "usos_texto": "Por su tamaño (445 m² en tres niveles, cinco baños, cochera para dos autos y dos frentes en esquina) y su estructura de concreto armado, la casa admite más de un uso: residencia familiar, casa con despacho en planta baja, u oficinas corporativas con adecuaciones. Ya funcionó cuatro años como casa de ejecutivos de una constructora nacional.",
       "en": {
         "titulo": "Three-story corner residence in Lomas de las Flores",
         "tipo": "house",
@@ -488,7 +488,7 @@
         "etiqueta_estado": "Delivered in 60 days",
         "nota_estado": "The house is for sale and is delivered ready, as described, 60 days after the purchase agreement is signed. Meanwhile the tune-up continues at a normal pace; see «Progress» below for before-and-after photos.",
         "resumen": "Modern corner home in a gated community, minutes from the airport, the bus terminal and the hospitals. Three bedrooms, gym, study, bar and rooftop lounge. Works as a residence or as a home office.",
-        "descripcion": "Modern-style residence on a corner lot with two street frontages, inside the gated community Lomas de las Flores II, one block from Lázaro Cárdenas Avenue. Three stories with 445 m² (4,790 sq ft) of construction on a 209 m² (2,250 sq ft) lot. Ground floor: foyer, living room, dining room and kitchen with island and bar area, laundry room, full bathroom, covered garage for two cars and storage room. First floor: master bedroom with walk-in closet and bathroom with whirlpool tub, two more bedrooms, a full bathroom and a linen room. Second floor: an open-plan level with gym, study area and full bathroom, easily converted into a fourth bedroom or guest suite, plus a rooftop lounge terrace. Pressure water system and machine room on the roof. For four years it housed executives of a national construction company, which speaks to its functionality and location. Sold semi-furnished.",
+        "descripcion": "Modern-style residence on a corner lot with two street frontages, inside the gated community Lomas de las Flores II, one block from Lázaro Cárdenas Avenue. Three stories with 445 m² (4,790 sq ft) of construction on a 209 m² (2,250 sq ft) lot. Ground floor: foyer, living room, dining room and kitchen with island and bar area, laundry room, two full bathrooms, covered garage for two cars and storage room. First floor: master bedroom with walk-in closet and bathroom with whirlpool tub, two more bedrooms, a full bathroom and a linen room. Second floor: an open-plan level with gym, study area and full bathroom, easily converted into a fourth bedroom or guest suite, plus a rooftop lounge terrace. Pressure water system and machine room on the roof. For four years it housed executives of a national construction company, which speaks to its functionality and location. Sold semi-furnished.",
         "amenidades": [
           "Gated community with guard houses",
           "Corner lot with two frontages",
@@ -511,7 +511,7 @@
             "Kitchen with island, 5-burner range and hood",
             "Bar area with wood and cantera-stone counter",
             "Laundry room with washer and dryer",
-            "Full bathroom",
+            "Two full bathrooms",
             "Covered garage for 2 cars and storage room"
           ],
           "First floor": [
@@ -542,7 +542,7 @@
           "Foreign buyers welcome: the purchase is formalized through a bank trust (fideicomiso); we can connect you with a notary who handles it"
         ],
         "ubicacion_texto": "Lomas de las Flores II is a gated residential community with guard houses, one block from Lázaro Cárdenas Avenue. The house is five minutes from the airport and the bus terminal, and steps from the city's hospital district: the General Specialty Hospital and the State Oncology Center are less than a kilometer away, on foot. Campeche is a UNESCO World Heritage walled city and one of the safest states in Mexico, two hours from Mérida.",
-        "usos_texto": "Given its size (445 m² on three stories, four bathrooms, two-car garage and two corner frontages) and its reinforced-concrete structure, the house lends itself to more than one use: family residence, home with a ground-floor office, or corporate offices with adaptations. It already served four years as a residence for executives of a national construction company."
+        "usos_texto": "Given its size (445 m² on three stories, five bathrooms, two-car garage and two corner frontages) and its reinforced-concrete structure, the house lends itself to more than one use: family residence, home with a ground-floor office, or corporate offices with adaptations. It already served four years as a residence for executives of a national construction company."
       }
     },
     {
