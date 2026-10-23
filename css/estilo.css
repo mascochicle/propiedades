@@ -188,3 +188,11 @@ p { margin: 0 0 1em; }
   .lateral { position: static; }
   .portada { min-height: 70vh; }
 }
+/* Celular: la marca y el menú no caben en un renglón (visto en S25 Ultra, 23-oct-2026) */
+@media (max-width: 640px) {
+  .cabecera .contenedor { flex-wrap: wrap; height: auto; padding: 12px 0 10px; row-gap: 8px; }
+  .marca { white-space: nowrap; font-size: 1.3rem; }
+  .nav { width: 100%; justify-content: space-between; gap: 10px; font-size: .7rem; letter-spacing: .1em; }
+  .nav a { padding: 4px 0; }
+  .nav .idioma { padding: 3px 8px; font-size: .66rem; }
+}
