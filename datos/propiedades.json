@@ -358,6 +358,7 @@
       },
       "condiciones": [
         "Precio de venta $7,100,000 MXN",
+        "Gastos de escrituración, avalúo, honorarios del notario e impuesto de adquisición, por cuenta del comprador",
         "Entrega lista 60 días después de firmar el compromiso de compra",
         "Se vende semiamueblada (hay faltantes; la cocina está por terminarse)",
         "Escrituras y predial al corriente; se entrega libre de gravamen (la hipoteca vigente se liquida y cancela en el cierre, ante notario)",
@@ -536,6 +537,7 @@
         },
         "condiciones": [
           "Asking price MXN $7,100,000",
+          "Closing costs (deed, appraisal, notary fees and acquisition tax) are paid by the buyer",
           "Delivered ready 60 days after the purchase agreement is signed",
           "Sold semi-furnished (some items missing; the kitchen is to be finished)",
           "Clear title at closing; property tax up to date. The current mortgage is paid off and the lien released at closing, before the notary",
